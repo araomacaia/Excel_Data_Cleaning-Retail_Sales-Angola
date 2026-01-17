@@ -65,7 +65,7 @@ Excel_Data_Cleaning-Retail_Sales-Angola
 The diagram below summarizes the **end-to-end workflow** followed in this project, from receiving raw data to delivering a clean dataset ready for analysis.
 
 <p align="center">
-  <img src="Images/workflows/workflow7.jpg" width="600" />
+  <img src="Images/workflows/workflow8.png" width="600" />
 </p>
 
 > ℹ️ **Workflow Summary**  
