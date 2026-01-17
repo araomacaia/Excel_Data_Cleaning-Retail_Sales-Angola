@@ -1,4 +1,7 @@
-# Excel_Data_Cleaning-Retail_Sales-Angola
+# Excel Data Cleaning - Retail Sales (Angola)
+<p align="center">
+  <img src="Images/cover1.png" width="500" />
+</p>
 
 ---
 ## Project Overview
