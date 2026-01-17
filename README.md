@@ -29,9 +29,35 @@ The objective of this project is to transform **raw, messy data** into a **clean
 
 ## 📂 Project Structure
 
-
----
-
+```
+Excel_Data_Cleaning-Retail_Sales-Angola
+│
+├── Data/
+│ ├── Raw_Data_ALIMENTA_ANGOLA.xlsx
+│ ├── raw_data_alimenta_angola.csv
+│ ├── cleaned_dataset.xlsx
+│ └── cleaned_dataset.csv
+│
+├── Images/
+│ ├── data_screenshots/
+│ │ ├── Raw_data.png
+│ │ ├── Data_being_worked_with_outlier.png
+│ │ ├── Cleaned_data(1).png
+│ │ └── Cleaned_data(2).png
+│ │
+│ └── workflows/
+│ ├── workflow1.jpg
+│ ├── workflow2.jpg
+│ ├── workflow3.jpg
+│ ├── workflow4.jpg
+│ ├── workflow5.jpg
+│ ├── workflow6.jpg
+│ ├── workflow7.jpg
+│ └── workflow8.jpg
+│
+├── LICENSE
+└── README.md
+```
 ---
 
 ## 🔄 Data Cleaning Workflow
