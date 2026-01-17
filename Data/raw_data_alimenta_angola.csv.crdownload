@@ -1,0 +1,1278 @@
+Date,Client,Contact_Name,Department,Payment_Method,Revenue,Profit,Profit_Margin
+11/06/2023,ARZAMART (flagship),  ana   paula ,Finance_Luanda,Transfer,4069,1015,0.24944703858441877
+17/01/2024,AMAZON.CO (ecommerce partner),   marta  silva ,Sales_Benguela,Card,,,#DIV/0!
+2023-12-25,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Sales_Benguela,Card,6512,1641,0.2519963144963145
+22/02/2024,SHOPRITE ANGOLA (regional store),  ana   paula ,Sales_Luanda,Cash,4378,,#DIV/0!
+03-25-2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,IT_Luanda,Cash,7342,1047,0.14260419504222283
+12-14-2022,KERO (hypermarket), pedro    ALVES ,IT_Luanda,Card,,534,#DIV/0!
+26/02/2022,AMAZON.CO (ecommerce partner),  ana   paula ,Sales_Benguela,Transfer,,,#DIV/0!
+27/11/2022,KERO (hypermarket), pedro    ALVES ,Logistics_Huambo,Card,5205,,#DIV/0!
+2023-11-18,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Benguela,Cash,,1127,#DIV/0!
+2022-03-09,ARZAMART (flagship),   marta  silva ,Logistics_Huambo,Cash,3340,,#DIV/0!
+03/01/2022,KERO (hypermarket),   marta  silva ,Logistics_Huambo,Cash,,894,#DIV/0!
+2023-03-19,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Benguela,PayPal,3024,,#DIV/0!
+12-25-2022,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Huambo,Transfer,3411,1129,0.3309879800644972
+07/03/2024,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Finance_Luanda,Card,,1998,#DIV/0!
+2024-01-30,ARZAMART (flagship), pedro    ALVES ,Logistics_Luanda,PayPal,4202,,#DIV/0!
+04-03-2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Luanda,PayPal,5293,,#DIV/0!
+05-14-2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Sales_Luanda,Cash,4802,696,0.14493960849645982
+20/10/2022,ARZAMART (flagship), LUIZ   fernando ,IT_Luanda,Transfer,3343,800,0.23930601256356565
+2022-01-28,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Luanda,PayPal,,,#DIV/0!
+12-15-2023,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Luanda,Transfer,4223,,#DIV/0!
+05-21-2022,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Logistics_Huambo,Transfer,4009,,#DIV/0!
+10-10-2022,KERO (hypermarket),   marta  silva ,Sales_Luanda,Transfer,,,#DIV/0!
+09-02-2022,ARZAMART (flagship),  joSE  manuel  ,Sales_Luanda,Transfer,,,#DIV/0!
+26/06/2022,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Benguela,Card,,,#DIV/0!
+23/12/2023,ARZAMART (flagship),  ana   paula ,IT_Luanda,Transfer,,,#DIV/0!
+02-21-2024,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Luanda,PayPal,4118,,#DIV/0!
+2023-02-23,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,IT_Luanda,Transfer,,500,#DIV/0!
+13/09/2023,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Luanda,Transfer,4478,1461,0.3262617239839214
+03-15-2022,WALMART INTL (bulk buyer), pedro    ALVES ,Finance_Luanda,Transfer,,1604,#DIV/0!
+17/10/2023,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Huambo,Cash,,1674,#DIV/0!
+09-16-2023,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,Card,7693,814,0.10581047705706487
+14/03/2022,ARZAMART (flagship), CARLOS   miguEL ,Sales_Luanda,Cash,7195,,#DIV/0!
+11-03-2023,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Logistics_Huambo,Cash,6938,1849,0.2665033150763909
+2023-09-09,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,IT_Luanda,Card,5160,,#DIV/0!
+2022-07-07,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Sales_Benguela,Transfer,,,#DIV/0!
+23/09/2022,"TESLA, INC. (wholesale client)",   marta  silva ,Logistics_Huambo,Transfer,5704,,#DIV/0!
+06-14-2023,KERO (hypermarket),  joSE  manuel  ,Finance_Luanda,Card,,,#DIV/0!
+2022-12-27,"TESLA, INC. (wholesale client)",   marta  silva ,Finance_Luanda,Cash,6940,,#DIV/0!
+12-26-2022,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,IT_Luanda,Cash,,,#DIV/0!
+20/12/2022,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Luanda,Cash,4256,1845,0.43350563909774437
+27/05/2022,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Huambo,Cash,4164,1577,0.3787223823246878
+16/02/2024,WALMART INTL (bulk buyer),  ana   paula ,Sales_Luanda,Cash,,981,#DIV/0!
+06-25-2022,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Cash,,,#DIV/0!
+01/04/2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Finance_Luanda,Card,6623,1521,0.22965423524082743
+12-22-2022,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,IT_Luanda,PayPal,5378,1480,0.2751952398661212
+2022-01-19,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Finance_Luanda,PayPal,6018,,#DIV/0!
+15/04/2023,"TESLA, INC. (wholesale client)", LUIZ   fernando ,IT_Luanda,PayPal,7442,,#DIV/0!
+10/02/2022,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Huambo,Card,4239,1462,0.34489266336400093
+03/10/2023,WALMART INTL (bulk buyer),  ana   paula ,IT_Luanda,Cash,,,#DIV/0!
+03-15-2022,MAXI CASH (distributor), pedro    ALVES ,IT_Luanda,PayPal,,,#DIV/0!
+01-07-2023,KERO (hypermarket), CARLOS   miguEL ,Logistics_Luanda,Transfer,7924,,#DIV/0!
+12-26-2023,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Huambo,Card,3220,1540,0.4782608695652174
+10-29-2023,WALMART INTL (bulk buyer),  ana   paula ,Sales_Benguela,Transfer,4944,,#DIV/0!
+06-17-2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Finance_Luanda,Card,5665,,#DIV/0!
+01/01/2024,MAXI CASH (distributor), LUIZ   fernando ,Finance_Luanda,Cash,4243,,#DIV/0!
+30/05/2023,SHOPRITE ANGOLA (regional store),   marta  silva ,Logistics_Luanda,Card,,,#DIV/0!
+2022-10-12,WALMART INTL (bulk buyer), pedro    ALVES ,IT_Luanda,Card,,1288,#DIV/0!
+01/01/2023,MAXI CASH (distributor),  ana   paula ,Logistics_Luanda,Transfer,,,#DIV/0!
+11-23-2022,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Logistics_Luanda,Cash,3372,,#DIV/0!
+2023-06-03,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Finance_Luanda,PayPal,,,#DIV/0!
+08-20-2023,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Sales_Luanda,Cash,,,#DIV/0!
+2022-09-03,MAXI CASH (distributor),   marta  silva ,Sales_Luanda,Cash,3201,,#DIV/0!
+05/08/2023,KERO (hypermarket),  ana   paula ,IT_Luanda,PayPal,6861,,#DIV/0!
+02-19-2024,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,IT_Luanda,PayPal,7217,,#DIV/0!
+29/02/2024,AMAZON.CO (ecommerce partner),  ana   paula ,Finance_Luanda,Transfer,,,#DIV/0!
+03-07-2024,MAXI CASH (distributor), pedro    ALVES ,Sales_Luanda,Transfer,,,#DIV/0!
+11-21-2022,AMAZON.CO (ecommerce partner),   marta  silva ,Sales_Benguela,Cash,7949,,#DIV/0!
+10-26-2023,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,PayPal,7031,,#DIV/0!
+20/12/2022,KERO (hypermarket),  ana   paula ,Finance_Luanda,Transfer,5986,1513,0.25275643167390577
+2022-11-12,MAXI CASH (distributor), CARLOS   miguEL ,IT_Luanda,Card,5418,,#DIV/0!
+04/11/2022,ARZAMART (flagship),  ana   paula ,Logistics_Luanda,Card,,,#DIV/0!
+2023-07-26,"TESLA, INC. (wholesale client)",   marta  silva ,Logistics_Huambo,Cash,,,#DIV/0!
+18/04/2023,KERO (hypermarket), pedro    ALVES ,Finance_Luanda,PayPal,,1855,#DIV/0!
+30/08/2023,MAXI CASH (distributor), LUIZ   fernando ,IT_Luanda,Card,,,#DIV/0!
+11-03-2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,IT_Luanda,Card,,1925,#DIV/0!
+12-10-2022,KERO (hypermarket),   marta  silva ,Finance_Luanda,PayPal,5976,1926,0.32228915662650603
+03-03-2024,KERO (hypermarket), LUIZ   fernando ,Sales_Luanda,Card,3340,1443,0.43203592814371256
+14/01/2024,"TESLA, INC. (wholesale client)",   marta  silva ,Sales_Benguela,PayPal,,1627,#DIV/0!
+30/06/2022,KERO (hypermarket),  ana   paula ,Logistics_Luanda,Card,,1153,#DIV/0!
+12-26-2023,KERO (hypermarket), pedro    ALVES ,Logistics_Huambo,Cash,3535,,#DIV/0!
+02-05-2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,IT_Luanda,Transfer,,1888,#DIV/0!
+11/01/2024,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Finance_Luanda,Transfer,6798,1253,0.18431891732862607
+05/10/2023,SHOPRITE ANGOLA (regional store),   marta  silva ,IT_Luanda,Transfer,6641,1607,0.2419816292726999
+05-10-2023,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Luanda,Card,4274,1165,0.27257838090781467
+2022-09-19,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Huambo,Transfer,5040,,#DIV/0!
+2023-03-07,ARZAMART (flagship), CARLOS   miguEL ,Sales_Benguela,Transfer,,,#DIV/0!
+04-25-2023,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Huambo,Cash,3702,,#DIV/0!
+04/01/2024,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Transfer,6768,1484,0.21926713947990545
+2023-06-14,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Logistics_Luanda,Transfer,5707,,#DIV/0!
+2023-08-17,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Finance_Luanda,Cash,6016,,#DIV/0!
+2023-06-27,AMAZON.CO (ecommerce partner),   marta  silva ,Sales_Benguela,Cash,3815,,#DIV/0!
+18/04/2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Sales_Luanda,Transfer,6037,,#DIV/0!
+2023-04-17,WALMART INTL (bulk buyer), pedro    ALVES ,Logistics_Huambo,Cash,6461,,#DIV/0!
+2022-02-01,KERO (hypermarket), pedro    ALVES ,Sales_Benguela,Cash,3173,,#DIV/0!
+2023-11-22,ARZAMART (flagship), LUIZ   fernando ,Logistics_Luanda,Transfer,3505,,#DIV/0!
+2024-02-15,WALMART INTL (bulk buyer), CARLOS   miguEL ,Logistics_Huambo,PayPal,3157,,#DIV/0!
+02/11/2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Sales_Luanda,Transfer,3073,1610,0.5239179954441914
+11-26-2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Sales_Benguela,Transfer,3018,,#DIV/0!
+2022-11-14,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,IT_Luanda,PayPal,7621,1105,0.14499409526308885
+04-26-2023,ARZAMART (flagship),  ana   paula ,Finance_Luanda,Transfer,,1927,#DIV/0!
+2023-12-09,MAXI CASH (distributor),  ana   paula ,Sales_Benguela,PayPal,,,#DIV/0!
+09-14-2023,ARZAMART (flagship), LUIZ   fernando ,Logistics_Luanda,Card,3945,1274,0.3229404309252218
+2022-07-27,WALMART INTL (bulk buyer), CARLOS   miguEL ,Finance_Luanda,Transfer,7310,1566,0.21422708618331054
+02-12-2024,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Sales_Luanda,PayPal,3126,,#DIV/0!
+11-19-2022,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Sales_Luanda,Card,3523,,#DIV/0!
+2022-10-03,ARZAMART (flagship),  joSE  manuel  ,Sales_Luanda,Transfer,3673,,#DIV/0!
+2023-02-23,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Huambo,Card,7623,1150,0.15085924176833268
+2022-02-26,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Huambo,Cash,4305,1387,0.3221835075493612
+2023-07-14,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Huambo,Card,,,#DIV/0!
+2023-01-24,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Finance_Luanda,PayPal,,703,#DIV/0!
+2022-02-06,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,IT_Luanda,Card,5392,,#DIV/0!
+2022-09-09,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Benguela,Transfer,6039,,#DIV/0!
+2022-08-26,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Luanda,Card,4442,,#DIV/0!
+07-22-2022,ARZAMART (flagship), CARLOS   miguEL ,Sales_Luanda,Cash,4519,,#DIV/0!
+2022-06-26,AMAZON.CO (ecommerce partner),   marta  silva ,IT_Luanda,Card,5750,865,0.15043478260869564
+07-04-2022,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Luanda,PayPal,7629,1983,0.2599292174596933
+08/05/2023,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,IT_Luanda,Card,4240,1796,0.4235849056603774
+2022-12-10,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Logistics_Luanda,Card,3406,1351,0.3966529653552554
+02/06/2022,MAXI CASH (distributor),  ana   paula ,IT_Luanda,Transfer,7277,1948,0.26769273052081904
+20/02/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,IT_Luanda,PayPal,3079,697,0.22637219876583306
+11/04/2023,MAXI CASH (distributor),   marta  silva ,Sales_Luanda,Transfer,4121,,#DIV/0!
+2022-02-04,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Luanda,Transfer,6508,1466,0.22526121696373694
+2023-08-23,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Luanda,PayPal,,,#DIV/0!
+12-22-2023,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Huambo,PayPal,,,#DIV/0!
+2023-11-18,WALMART INTL (bulk buyer), LUIZ   fernando ,Logistics_Luanda,Cash,,,#DIV/0!
+2022-02-02,KERO (hypermarket),  joSE  manuel  ,Sales_Benguela,Transfer,7488,,#DIV/0!
+02/03/2024,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Huambo,Cash,6277,950,0.1513461844830333
+26/12/2022,ARZAMART (flagship),  joSE  manuel  ,Sales_Luanda,PayPal,3282,,#DIV/0!
+11/05/2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Sales_Benguela,Transfer,6950,1172,0.16863309352517986
+09-24-2022,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Benguela,PayPal,4876,1075,0.220467596390484
+10-08-2022,WALMART INTL (bulk buyer),   marta  silva ,Logistics_Luanda,Card,,,#DIV/0!
+03/09/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Logistics_Huambo,Transfer,4382,,#DIV/0!
+2022-04-29,ARZAMART (flagship),  ana   paula ,Sales_Benguela,PayPal,,1321,#DIV/0!
+07-09-2022,MAXI CASH (distributor),   marta  silva ,Sales_Benguela,Transfer,,,#DIV/0!
+28/09/2023,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Finance_Luanda,Cash,4547,933,0.2051902353199912
+09/07/2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Huambo,PayPal,4054,,#DIV/0!
+29/08/2023,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Luanda,PayPal,,1706,#DIV/0!
+2022-05-13,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Transfer,,892,#DIV/0!
+09-25-2022,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Logistics_Huambo,PayPal,7642,924,0.12091075634650615
+05-12-2023,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Huambo,Cash,5881,1768,0.3006291447032818
+01/10/2023,"TESLA, INC. (wholesale client)",   marta  silva ,IT_Luanda,Cash,4541,701,0.15437128385818102
+12-29-2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Huambo,Cash,5236,1943,0.3710847975553858
+2023-12-09,MAXI CASH (distributor), CARLOS   miguEL ,IT_Luanda,PayPal,5420,,#DIV/0!
+2022-05-24,WALMART INTL (bulk buyer),  joSE  manuel  ,Sales_Benguela,Card,6597,1490,0.22586023950280432
+2022-02-16,"TESLA, INC. (wholesale client)",  joSE  manuel  ,IT_Luanda,Transfer,4926,,#DIV/0!
+2022-06-22,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Luanda,PayPal,,,#DIV/0!
+04-22-2022,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Logistics_Luanda,Card,,786,#DIV/0!
+01/02/2022,WALMART INTL (bulk buyer), CARLOS   miguEL ,Sales_Benguela,PayPal,,,#DIV/0!
+01-17-2022,ARZAMART (flagship),   marta  silva ,Sales_Luanda,Transfer,3187,,#DIV/0!
+05-19-2023,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Huambo,Transfer,,,#DIV/0!
+01-02-2022,MAXI CASH (distributor),   marta  silva ,Sales_Benguela,Transfer,7269,,#DIV/0!
+2022-10-31,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,IT_Luanda,Transfer,,1915,#DIV/0!
+06/08/2022,MAXI CASH (distributor), LUIZ   fernando ,Finance_Luanda,PayPal,4443,1403,0.3157776277290119
+13/08/2022,"TESLA, INC. (wholesale client)", pedro    ALVES ,Logistics_Huambo,Cash,5860,607,0.10358361774744028
+08-16-2023,AMAZON.CO (ecommerce partner),   marta  silva ,Sales_Benguela,Card,7080,1810,0.2556497175141243
+24/05/2023,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Huambo,PayPal,5260,1408,0.267680608365019
+07-22-2023,ARZAMART (flagship),  joSE  manuel  ,Logistics_Huambo,Card,,,#DIV/0!
+08-20-2023,ARZAMART (flagship), LUIZ   fernando ,Sales_Benguela,Cash,7133,,#DIV/0!
+2023-03-16,KERO (hypermarket), CARLOS   miguEL ,Sales_Benguela,Card,7545,,#DIV/0!
+2022-03-10,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Finance_Luanda,Transfer,5842,1718,0.29407737076343715
+2023-12-02,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Sales_Luanda,PayPal,5998,1031,0.17189063021007003
+2024-01-17,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Luanda,PayPal,4724,,#DIV/0!
+01-28-2023,SHOPRITE ANGOLA (regional store),  ana   paula ,Finance_Luanda,PayPal,3166,1260,0.3979785217940619
+07-23-2023,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Luanda,Transfer,4988,,#DIV/0!
+2024-02-19,"TESLA, INC. (wholesale client)",   marta  silva ,IT_Luanda,Transfer,4248,,#DIV/0!
+2022-07-14,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Luanda,PayPal,6451,1491,0.2311269570609208
+04-14-2023,MAXI CASH (distributor),  joSE  manuel  ,Finance_Luanda,PayPal,,,#DIV/0!
+2022-10-03,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Logistics_Luanda,PayPal,,1082,#DIV/0!
+10-12-2022,KERO (hypermarket), CARLOS   miguEL ,Sales_Luanda,Card,5441,1559,0.2865282117257857
+11-30-2023,KERO (hypermarket),   marta  silva ,Finance_Luanda,Cash,,1184,#DIV/0!
+31/10/2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,IT_Luanda,Cash,3609,,#DIV/0!
+2022-03-22,ARZAMART (flagship),  ana   paula ,IT_Luanda,Card,,1836,#DIV/0!
+2022-06-16,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Finance_Luanda,Transfer,6021,1027,0.17056967281182528
+02-27-2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Finance_Luanda,PayPal,,1757,#DIV/0!
+11-22-2023,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,IT_Luanda,Cash,6114,541,0.08848544324501145
+28/03/2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,IT_Luanda,Transfer,,1202,#DIV/0!
+08/07/2022,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,IT_Luanda,Card,3658,,#DIV/0!
+07/03/2022,"TESLA, INC. (wholesale client)", pedro    ALVES ,Sales_Luanda,Cash,4193,1929,0.4600524683997138
+02-01-2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Sales_Benguela,Card,,,#DIV/0!
+11-21-2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,IT_Luanda,Cash,5910,686,0.11607445008460236
+2023-02-14,"TESLA, INC. (wholesale client)", pedro    ALVES ,Logistics_Huambo,Transfer,4817,735,0.15258459622171475
+06-30-2022,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Logistics_Huambo,Transfer,4629,672,0.14517174335709657
+28/02/2023,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Logistics_Luanda,Card,,532,#DIV/0!
+25/05/2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,IT_Luanda,Transfer,,,#DIV/0!
+12-17-2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Sales_Luanda,Cash,5852,829,0.14166097060833904
+23/10/2023,WALMART INTL (bulk buyer), LUIZ   fernando ,Logistics_Huambo,Card,5087,,#DIV/0!
+2022-07-17,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Benguela,Card,4919,1900,0.38625736938402117
+01-04-2022,ARZAMART (flagship),  joSE  manuel  ,Sales_Benguela,PayPal,7607,,#DIV/0!
+16/01/2024,ARZAMART (flagship),   marta  silva ,IT_Luanda,Card,4567,,#DIV/0!
+03/02/2024,KERO (hypermarket),  ana   paula ,Sales_Luanda,PayPal,7616,1489,0.1955094537815126
+15/04/2023,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Luanda,Transfer,,1090,#DIV/0!
+2022-05-16,MAXI CASH (distributor),  ana   paula ,Sales_Luanda,PayPal,,,#DIV/0!
+13/11/2023,ARZAMART (flagship), pedro    ALVES ,Sales_Benguela,Cash,,1234,#DIV/0!
+07/03/2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Sales_Luanda,Transfer,7459,1145,0.15350583188094918
+08-31-2023,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Luanda,Cash,5145,,#DIV/0!
+01/08/2022,KERO (hypermarket), LUIZ   fernando ,IT_Luanda,PayPal,,,#DIV/0!
+03-05-2023,AMAZON.CO (ecommerce partner),  ana   paula ,Sales_Luanda,Card,,,#DIV/0!
+09-04-2023,KERO (hypermarket), CARLOS   miguEL ,Sales_Luanda,Cash,4113,1039,0.2526136639922198
+2022-02-03,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Luanda,Cash,7331,,#DIV/0!
+04-20-2022,"TESLA, INC. (wholesale client)", pedro    ALVES ,Sales_Luanda,Transfer,,1566,#DIV/0!
+09-22-2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,IT_Luanda,Card,3312,1744,0.5265700483091788
+2023-08-13,KERO (hypermarket), LUIZ   fernando ,Logistics_Huambo,PayPal,7569,1426,0.18840005284713965
+04-24-2023,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Finance_Luanda,Cash,,759,#DIV/0!
+2022-12-08,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Sales_Benguela,Card,3508,,#DIV/0!
+26/01/2022,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Benguela,Transfer,,,#DIV/0!
+08/11/2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Huambo,Cash,,,#DIV/0!
+03-13-2022,WALMART INTL (bulk buyer), LUIZ   fernando ,Logistics_Luanda,Transfer,4393,1684,0.38333712724789437
+08/03/2024,KERO (hypermarket), LUIZ   fernando ,Logistics_Luanda,Card,5974,,#DIV/0!
+06/03/2022,MAXI CASH (distributor), pedro    ALVES ,Sales_Benguela,PayPal,,1614,#DIV/0!
+03/06/2022,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Luanda,Transfer,3640,,#DIV/0!
+2022-08-29,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Transfer,5140,1903,0.37023346303501947
+31/01/2023,ARZAMART (flagship), LUIZ   fernando ,Sales_Benguela,Card,3289,827,0.2514442079659471
+06/10/2022,KERO (hypermarket), pedro    ALVES ,Logistics_Huambo,Cash,6146,631,0.10266840221282135
+2022-05-12,KERO (hypermarket), CARLOS   miguEL ,IT_Luanda,Cash,,,#DIV/0!
+29/06/2022,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Logistics_Huambo,PayPal,4690,,#DIV/0!
+2022-07-29,KERO (hypermarket),  ana   paula ,IT_Luanda,Card,6490,,#DIV/0!
+07-23-2022,MAXI CASH (distributor), pedro    ALVES ,IT_Luanda,Card,6886,,#DIV/0!
+07-31-2023,SHOPRITE ANGOLA (regional store),   marta  silva ,Sales_Benguela,PayPal,5702,1818,0.31883549631708175
+24/06/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Sales_Benguela,Cash,4462,1992,0.44643657552666965
+2023-06-01,KERO (hypermarket),  ana   paula ,Logistics_Luanda,Transfer,4748,,#DIV/0!
+2023-12-19,MAXI CASH (distributor),  ana   paula ,IT_Luanda,Cash,6676,1306,0.19562612342720193
+27/06/2023,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Sales_Benguela,PayPal,,,#DIV/0!
+03/04/2022,MAXI CASH (distributor),   marta  silva ,Logistics_Luanda,PayPal,5390,,#DIV/0!
+08/05/2023,MAXI CASH (distributor),   marta  silva ,Logistics_Huambo,Card,4772,643,0.13474434199497065
+01-29-2023,MAXI CASH (distributor),  ana   paula ,IT_Luanda,Cash,3850,,#DIV/0!
+2024-01-18,MAXI CASH (distributor), pedro    ALVES ,Sales_Benguela,Card,7475,,#DIV/0!
+12-17-2023,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Sales_Benguela,PayPal,,1344,#DIV/0!
+2023-10-13,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Luanda,Transfer,7989,1669,0.20891225434973087
+23/06/2022,AMAZON.CO (ecommerce partner),  ana   paula ,Finance_Luanda,Card,6251,1421,0.22732362821948487
+2023-09-17,MAXI CASH (distributor), LUIZ   fernando ,Sales_Benguela,Cash,3208,,#DIV/0!
+02-20-2024,KERO (hypermarket),  ana   paula ,IT_Luanda,Card,5366,,#DIV/0!
+22/03/2022,KERO (hypermarket),  joSE  manuel  ,Logistics_Luanda,PayPal,5236,589,0.11249045072574484
+28/12/2022,SHOPRITE ANGOLA (regional store),  ana   paula ,IT_Luanda,Card,,1120,#DIV/0!
+2023-06-27,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Sales_Luanda,Cash,,,#DIV/0!
+2023-12-30,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Finance_Luanda,Card,4845,,#DIV/0!
+03/06/2022,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,IT_Luanda,Card,6848,1540,0.22488317757009346
+25/05/2022,KERO (hypermarket),  joSE  manuel  ,Logistics_Luanda,Card,4179,,#DIV/0!
+2023-08-29,ARZAMART (flagship), LUIZ   fernando ,Sales_Benguela,Cash,,,#DIV/0!
+10-13-2023,MAXI CASH (distributor), LUIZ   fernando ,IT_Luanda,PayPal,5143,1062,0.20649426404822088
+2022-05-24,WALMART INTL (bulk buyer), CARLOS   miguEL ,Logistics_Luanda,Card,7449,,#DIV/0!
+29/10/2022,ARZAMART (flagship),  ana   paula ,Sales_Luanda,Cash,,,#DIV/0!
+07/11/2022,MAXI CASH (distributor),  joSE  manuel  ,Sales_Benguela,Card,,1377,#DIV/0!
+02-10-2022,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Sales_Luanda,Cash,,1476,#DIV/0!
+25/07/2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Luanda,Card,7200,,#DIV/0!
+16/04/2022,ARZAMART (flagship), CARLOS   miguEL ,Sales_Luanda,Transfer,,,#DIV/0!
+2023-04-28,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Logistics_Luanda,Card,,1300,#DIV/0!
+28/12/2023,"TESLA, INC. (wholesale client)",   marta  silva ,Finance_Luanda,Cash,4162,,#DIV/0!
+2022-10-28,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Luanda,Transfer,,,#DIV/0!
+15/12/2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Sales_Luanda,Transfer,,,#DIV/0!
+01/12/2022,MAXI CASH (distributor),  joSE  manuel  ,Sales_Benguela,Transfer,5463,1362,0.24931356397583745
+15/03/2023,KERO (hypermarket),  joSE  manuel  ,Sales_Luanda,Transfer,7685,,#DIV/0!
+02-07-2022,KERO (hypermarket),  joSE  manuel  ,Sales_Luanda,Card,3931,1046,0.26609005342152126
+17/12/2022,ARZAMART (flagship), LUIZ   fernando ,Sales_Luanda,Card,,,#DIV/0!
+05-31-2022,MAXI CASH (distributor),  ana   paula ,Logistics_Huambo,PayPal,,1440,#DIV/0!
+2023-11-02,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Finance_Luanda,PayPal,3359,,#DIV/0!
+03/09/2023,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Finance_Luanda,Cash,6312,1947,0.30846007604562736
+05-17-2023,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Huambo,Cash,,897,#DIV/0!
+2022-02-22,"TESLA, INC. (wholesale client)",   marta  silva ,Sales_Luanda,PayPal,,1195,#DIV/0!
+29/04/2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Huambo,PayPal,6937,,#DIV/0!
+04-25-2022,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Logistics_Huambo,PayPal,7331,,#DIV/0!
+2023-11-21,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Luanda,Transfer,,,#DIV/0!
+25/12/2023,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Luanda,Transfer,,917,#DIV/0!
+02-18-2022,MAXI CASH (distributor),  ana   paula ,Sales_Luanda,Transfer,,,#DIV/0!
+2022-08-08,"TESLA, INC. (wholesale client)",   marta  silva ,Finance_Luanda,Cash,5377,1283,0.23860888971545471
+2022-04-27,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Luanda,Cash,7120,1500,0.21067415730337077
+11/02/2022,WALMART INTL (bulk buyer), LUIZ   fernando ,IT_Luanda,PayPal,5742,1425,0.24817136886102403
+2022-07-25,WALMART INTL (bulk buyer), pedro    ALVES ,Sales_Benguela,Cash,7013,,#DIV/0!
+24/02/2023,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Luanda,Cash,,,#DIV/0!
+17/10/2023,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Luanda,Transfer,,,#DIV/0!
+31/10/2023,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Huambo,Transfer,6947,1548,0.22282999856052974
+09-07-2022,KERO (hypermarket),   marta  silva ,Logistics_Huambo,Transfer,7481,1693,0.2263066434968587
+2024-02-06,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Luanda,Transfer,3512,,#DIV/0!
+10-10-2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Logistics_Huambo,Cash,,574,#DIV/0!
+2022-11-20,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Logistics_Huambo,Card,4553,1357,0.29804524489347684
+2022-08-06,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Sales_Benguela,Card,4047,1400,0.3459352606869286
+16/03/2022,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Logistics_Luanda,PayPal,,,#DIV/0!
+09/01/2024,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Logistics_Luanda,Cash,3497,1085,0.31026594223620246
+04/02/2022,MAXI CASH (distributor),  ana   paula ,Sales_Luanda,Cash,6472,663,0.10244128553770086
+2023-09-12,KERO (hypermarket),   marta  silva ,Logistics_Huambo,Card,7350,1651,0.22462585034013605
+2023-03-24,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Luanda,Card,,1478,#DIV/0!
+11-09-2022,WALMART INTL (bulk buyer),   marta  silva ,Sales_Luanda,Cash,6948,,#DIV/0!
+2023-01-03,WALMART INTL (bulk buyer),  ana   paula ,IT_Luanda,Card,4130,962,0.23292978208232445
+11-12-2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Sales_Benguela,PayPal,,,#DIV/0!
+2022-04-23,MAXI CASH (distributor),  ana   paula ,IT_Luanda,Card,3991,989,0.24780756702580806
+30/11/2023,SHOPRITE ANGOLA (regional store),  ana   paula ,Sales_Benguela,Cash,3094,1549,0.5006464124111183
+01-07-2023,MAXI CASH (distributor), pedro    ALVES ,Sales_Luanda,Card,,,#DIV/0!
+10-27-2022,WALMART INTL (bulk buyer), LUIZ   fernando ,Sales_Benguela,Card,,1589,#DIV/0!
+09-13-2022,ARZAMART (flagship), pedro    ALVES ,Sales_Luanda,Cash,,,#DIV/0!
+09-06-2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Finance_Luanda,PayPal,5309,617,0.1162177434545112
+06/01/2024,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Finance_Luanda,Cash,4431,,#DIV/0!
+03/05/2022,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Benguela,Transfer,,,#DIV/0!
+06/04/2023,MAXI CASH (distributor),  joSE  manuel  ,Sales_Benguela,PayPal,6673,,#DIV/0!
+2022-02-15,AMAZON.CO (ecommerce partner),   marta  silva ,IT_Luanda,PayPal,6380,658,0.10313479623824451
+2022-06-29,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Luanda,Cash,,1902,#DIV/0!
+17/07/2022,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Finance_Luanda,PayPal,3230,,#DIV/0!
+2022-05-02,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Logistics_Luanda,Cash,4229,567,0.1340742492314968
+2023-04-07,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Huambo,Card,,1438,#DIV/0!
+2022-01-07,ARZAMART (flagship),  joSE  manuel  ,Logistics_Huambo,Cash,3880,1220,0.31443298969072164
+2022-04-26,ARZAMART (flagship), LUIZ   fernando ,Logistics_Luanda,Card,7426,,#DIV/0!
+04-16-2022,ARZAMART (flagship),  joSE  manuel  ,IT_Luanda,Cash,6848,,#DIV/0!
+2022-11-17,MAXI CASH (distributor),  joSE  manuel  ,IT_Luanda,Cash,4675,,#DIV/0!
+16/01/2024,WALMART INTL (bulk buyer), pedro    ALVES ,IT_Luanda,Cash,,,#DIV/0!
+06-30-2023,ARZAMART (flagship), CARLOS   miguEL ,Sales_Benguela,PayPal,,,#DIV/0!
+11/06/2022,ARZAMART (flagship), CARLOS   miguEL ,Sales_Benguela,PayPal,6840,,#DIV/0!
+13/03/2023,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Luanda,PayPal,,,#DIV/0!
+03-23-2023,KERO (hypermarket), pedro    ALVES ,Sales_Luanda,PayPal,7201,1105,0.15345090959588947
+07-07-2023,MAXI CASH (distributor),  joSE  manuel  ,Sales_Benguela,Card,,,#DIV/0!
+2023-09-16,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Sales_Luanda,Transfer,,500,#DIV/0!
+22/08/2022,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Sales_Luanda,PayPal,,,#DIV/0!
+2023-08-15,KERO (hypermarket),  ana   paula ,Sales_Luanda,PayPal,5259,730,0.13880965963110858
+18/03/2023,KERO (hypermarket),   marta  silva ,Logistics_Luanda,Transfer,4607,,#DIV/0!
+2023-06-09,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Logistics_Huambo,Cash,5087,561,0.11028110870847257
+04/12/2023,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Finance_Luanda,Card,4716,,#DIV/0!
+29/11/2022,MAXI CASH (distributor),  ana   paula ,Finance_Luanda,PayPal,4150,,#DIV/0!
+05/05/2022,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Benguela,Cash,5700,1843,0.3233333333333333
+2022-10-03,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Sales_Luanda,Card,6310,1742,0.27606973058637085
+04-09-2022,SHOPRITE ANGOLA (regional store),  ana   paula ,Sales_Luanda,Transfer,7021,1848,0.26321036889332006
+2023-08-12,ARZAMART (flagship),  joSE  manuel  ,Logistics_Luanda,Transfer,4636,566,0.12208800690250216
+05-02-2022,SHOPRITE ANGOLA (regional store),   marta  silva ,Sales_Benguela,PayPal,3210,,#DIV/0!
+2022-12-13,AMAZON.CO (ecommerce partner),  ana   paula ,Sales_Benguela,Card,5974,,#DIV/0!
+04-29-2023,MAXI CASH (distributor), pedro    ALVES ,Logistics_Huambo,PayPal,,1539,#DIV/0!
+01-21-2024,KERO (hypermarket), pedro    ALVES ,Logistics_Luanda,Card,4508,,#DIV/0!
+12-10-2023,ARZAMART (flagship), pedro    ALVES ,Finance_Luanda,PayPal,,,#DIV/0!
+2022-01-27,MAXI CASH (distributor),  ana   paula ,Logistics_Huambo,PayPal,5745,,#DIV/0!
+20/03/2023,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Huambo,Cash,4603,,#DIV/0!
+04-18-2022,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Logistics_Huambo,PayPal,6787,,#DIV/0!
+02-11-2023,WALMART INTL (bulk buyer), CARLOS   miguEL ,Logistics_Luanda,Cash,3799,1678,0.4416951829428797
+05-08-2023,WALMART INTL (bulk buyer), CARLOS   miguEL ,Sales_Luanda,Transfer,,1055,#DIV/0!
+12/10/2022,KERO (hypermarket),  ana   paula ,Sales_Benguela,Card,4587,1090,0.23762807935469807
+04-26-2022,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Sales_Benguela,Card,7684,745,0.09695471108797502
+2024-02-27,KERO (hypermarket), pedro    ALVES ,Finance_Luanda,Card,7370,532,0.07218453188602442
+2022-05-09,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Sales_Luanda,Transfer,4518,,#DIV/0!
+22/05/2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Sales_Luanda,Cash,3657,1487,0.40661744599398414
+08-02-2022,KERO (hypermarket), LUIZ   fernando ,Logistics_Huambo,Cash,,965,#DIV/0!
+2023-05-06,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,PayPal,7103,541,0.07616500070392791
+09/02/2022,SHOPRITE ANGOLA (regional store),  ana   paula ,Sales_Benguela,PayPal,3791,,#DIV/0!
+2023-04-08,KERO (hypermarket),  joSE  manuel  ,Sales_Benguela,Transfer,,,#DIV/0!
+19/09/2022,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Luanda,PayPal,5699,,#DIV/0!
+2023-04-06,KERO (hypermarket),  joSE  manuel  ,Sales_Luanda,Cash,6702,,#DIV/0!
+18/06/2023,WALMART INTL (bulk buyer),  ana   paula ,Sales_Benguela,Transfer,4535,,#DIV/0!
+2023-12-17,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Sales_Luanda,PayPal,3630,1926,0.5305785123966942
+02-20-2023,KERO (hypermarket),  joSE  manuel  ,Finance_Luanda,Transfer,6235,1761,0.28243785084202083
+02-05-2024,AMAZON.CO (ecommerce partner),  ana   paula ,Logistics_Huambo,Cash,4274,641,0.14997660271408517
+15/05/2022,WALMART INTL (bulk buyer),   marta  silva ,IT_Luanda,Transfer,,,#DIV/0!
+03-21-2023,WALMART INTL (bulk buyer),  ana   paula ,IT_Luanda,Transfer,,1666,#DIV/0!
+12-14-2022,ARZAMART (flagship),  ana   paula ,Logistics_Huambo,Card,,1277,#DIV/0!
+26/10/2023,WALMART INTL (bulk buyer),  joSE  manuel  ,Logistics_Huambo,Card,,1805,#DIV/0!
+09-19-2023,KERO (hypermarket),  ana   paula ,Logistics_Luanda,Card,3364,,#DIV/0!
+2023-07-28,KERO (hypermarket), pedro    ALVES ,Logistics_Luanda,PayPal,,1727,#DIV/0!
+2022-09-06,AMAZON.CO (ecommerce partner),  ana   paula ,Sales_Luanda,PayPal,,594,#DIV/0!
+07-07-2023,ARZAMART (flagship),  ana   paula ,Logistics_Luanda,Transfer,,1731,#DIV/0!
+2023-12-06,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Finance_Luanda,PayPal,4881,1330,0.27248514648637573
+2023-04-28,MAXI CASH (distributor),   marta  silva ,Sales_Luanda,PayPal,,,#DIV/0!
+2023-03-30,SHOPRITE ANGOLA (regional store),   marta  silva ,Finance_Luanda,PayPal,5429,669,0.12322711364892246
+04-15-2023,SHOPRITE ANGOLA (regional store), pedro    ALVES ,IT_Luanda,PayPal,,644,#DIV/0!
+2023-05-02,MAXI CASH (distributor),  ana   paula ,Sales_Benguela,Card,5308,,#DIV/0!
+2022-05-19,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Sales_Benguela,Transfer,4467,591,0.132303559435863
+22/02/2022,KERO (hypermarket), pedro    ALVES ,IT_Luanda,Card,7719,566,0.07332556030573908
+2024-01-06,MAXI CASH (distributor),  ana   paula ,Sales_Benguela,PayPal,5973,893,0.14950611083207768
+2022-06-19,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Huambo,Cash,3327,1621,0.48722572888488125
+2022-10-28,KERO (hypermarket),   marta  silva ,Logistics_Luanda,Transfer,7273,,#DIV/0!
+2023-10-12,MAXI CASH (distributor),  ana   paula ,Logistics_Luanda,Cash,5469,,#DIV/0!
+2023-01-18,ARZAMART (flagship),  joSE  manuel  ,Logistics_Huambo,Transfer,,1204,#DIV/0!
+03/05/2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Luanda,PayPal,5688,1461,0.2568565400843882
+09/05/2023,MAXI CASH (distributor), pedro    ALVES ,IT_Luanda,Transfer,,,#DIV/0!
+2023-05-06,SHOPRITE ANGOLA (regional store),   marta  silva ,Logistics_Luanda,Cash,7933,950,0.11975293079541158
+06-15-2022,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Benguela,Card,7164,1404,0.19597989949748743
+2023-06-22,ARZAMART (flagship),  joSE  manuel  ,Logistics_Luanda,Cash,6330,1579,0.24944707740916272
+01-20-2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Huambo,Card,5144,1297,0.2521384136858476
+15/05/2023,AMAZON.CO (ecommerce partner), pedro    ALVES ,Logistics_Luanda,Transfer,4608,,#DIV/0!
+2023-02-20,WALMART INTL (bulk buyer), CARLOS   miguEL ,Finance_Luanda,PayPal,5351,1527,0.28536722108017193
+2022-08-07,MAXI CASH (distributor),   marta  silva ,Logistics_Luanda,Transfer,,981,#DIV/0!
+26/09/2023,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,IT_Luanda,Cash,4751,777,0.16354451694380132
+12-08-2023,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,IT_Luanda,Card,,1633,#DIV/0!
+2022-06-29,"TESLA, INC. (wholesale client)", pedro    ALVES ,Logistics_Huambo,PayPal,,,#DIV/0!
+2024-02-25,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Luanda,Card,4937,1891,0.3830261292282763
+2022-05-19,KERO (hypermarket),  ana   paula ,IT_Luanda,Card,5469,,#DIV/0!
+10-18-2022,"TESLA, INC. (wholesale client)",   marta  silva ,Logistics_Luanda,PayPal,4246,1848,0.43523316062176165
+2023-07-23,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Finance_Luanda,Card,7941,1638,0.20627125047223271
+10/03/2024,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,IT_Luanda,Transfer,,,#DIV/0!
+07/08/2023,ARZAMART (flagship), CARLOS   miguEL ,Sales_Benguela,Transfer,5725,,#DIV/0!
+2022-11-05,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Logistics_Luanda,Card,6874,,#DIV/0!
+11-25-2022,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Finance_Luanda,Card,4645,,#DIV/0!
+16/09/2023,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Luanda,PayPal,6095,,#DIV/0!
+01-09-2022,MAXI CASH (distributor),   marta  silva ,Finance_Luanda,Card,,,#DIV/0!
+2023-08-23,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Sales_Luanda,Transfer,7235,,#DIV/0!
+06-07-2023,ARZAMART (flagship), pedro    ALVES ,Logistics_Luanda,Cash,,,#DIV/0!
+07-25-2023,MAXI CASH (distributor), pedro    ALVES ,Logistics_Luanda,Transfer,,,#DIV/0!
+2023-01-12,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Huambo,Cash,,959,#DIV/0!
+2023-07-16,KERO (hypermarket), pedro    ALVES ,Logistics_Huambo,Card,7224,679,0.0939922480620155
+11-30-2022,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Finance_Luanda,PayPal,,,#DIV/0!
+11-28-2022,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Logistics_Luanda,Cash,5506,1151,0.20904467853251
+03-11-2022,MAXI CASH (distributor),  joSE  manuel  ,IT_Luanda,Card,5317,,#DIV/0!
+2022-01-08,SHOPRITE ANGOLA (regional store),  ana   paula ,IT_Luanda,Card,3083,1878,0.6091469348037626
+12/08/2023,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Huambo,Cash,,,#DIV/0!
+02-26-2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Finance_Luanda,Card,5144,1807,0.3512830482115086
+13/03/2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,IT_Luanda,Cash,3805,1558,0.40946123521682
+29/03/2022,WALMART INTL (bulk buyer),   marta  silva ,Sales_Luanda,Cash,6779,,#DIV/0!
+11-16-2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Huambo,Card,4879,,#DIV/0!
+23/06/2023,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Benguela,PayPal,7164,1097,0.15312674483528754
+27/12/2023,ARZAMART (flagship),  ana   paula ,Sales_Luanda,Card,7099,1712,0.24116072686293843
+19/05/2023,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Huambo,Transfer,,806,#DIV/0!
+01-11-2022,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Luanda,Card,7870,1917,0.24358322744599745
+04-30-2023,KERO (hypermarket), LUIZ   fernando ,Logistics_Luanda,Cash,4851,,#DIV/0!
+12-22-2022,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Benguela,Transfer,6352,1790,0.2818010075566751
+2023-08-18,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Luanda,Card,5677,1047,0.18442839527919677
+03-24-2023,AMAZON.CO (ecommerce partner),  ana   paula ,Finance_Luanda,Cash,,661,#DIV/0!
+04/12/2023,ARZAMART (flagship),  joSE  manuel  ,Sales_Benguela,Cash,4352,1735,0.3986672794117647
+11-08-2022,MAXI CASH (distributor), LUIZ   fernando ,Sales_Luanda,PayPal,6040,,#DIV/0!
+2022-08-10,ARZAMART (flagship),  ana   paula ,Finance_Luanda,Cash,,510,#DIV/0!
+2024-01-19,WALMART INTL (bulk buyer),   marta  silva ,Sales_Benguela,PayPal,6242,1787,0.2862864466517142
+2022-04-12,ARZAMART (flagship),  ana   paula ,Logistics_Luanda,PayPal,5413,,#DIV/0!
+2023-03-16,ARZAMART (flagship), LUIZ   fernando ,Sales_Benguela,Transfer,,1301,#DIV/0!
+22/05/2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,IT_Luanda,PayPal,5776,,#DIV/0!
+05-30-2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Huambo,Cash,,1621,#DIV/0!
+2023-01-22,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Luanda,Cash,3894,632,0.1623009758602979
+04/09/2023,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Sales_Luanda,Card,3648,,#DIV/0!
+2023-12-09,ARZAMART (flagship),  joSE  manuel  ,Finance_Luanda,PayPal,4509,1391,0.30849412286538036
+01-16-2023,ARZAMART (flagship),  ana   paula ,IT_Luanda,Card,3332,,#DIV/0!
+23/12/2022,ARZAMART (flagship),  ana   paula ,Sales_Benguela,Cash,6755,884,0.1308660251665433
+04/06/2022,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Luanda,PayPal,3368,1942,0.5766033254156769
+09-06-2023,KERO (hypermarket),   marta  silva ,Finance_Luanda,Transfer,6263,,#DIV/0!
+2022-11-03,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Sales_Luanda,Transfer,5976,1201,0.20097054886211513
+27/02/2023,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Luanda,PayPal,4302,1523,0.35402138540213857
+2023-09-30,ARZAMART (flagship), CARLOS   miguEL ,IT_Luanda,Card,6231,,#DIV/0!
+2024-02-11,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Huambo,Card,4094,699,0.17073766487542746
+01-24-2024,ARZAMART (flagship),   marta  silva ,Logistics_Luanda,Cash,7783,,#DIV/0!
+18/12/2023,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Luanda,Card,3490,,#DIV/0!
+05-30-2023,ARZAMART (flagship),   marta  silva ,Sales_Luanda,Transfer,7544,1950,0.25848356309650056
+2023-03-03,MAXI CASH (distributor),   marta  silva ,Sales_Benguela,Card,4179,789,0.18880114860014358
+06/11/2023,KERO (hypermarket),   marta  silva ,Sales_Luanda,Card,6087,,#DIV/0!
+08-13-2023,KERO (hypermarket),  joSE  manuel  ,IT_Luanda,Cash,,1036,#DIV/0!
+05/12/2023,SHOPRITE ANGOLA (regional store),  ana   paula ,Finance_Luanda,Card,5523,1411,0.2554770957812783
+27/03/2022,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Logistics_Huambo,PayPal,7534,,#DIV/0!
+2023-10-18,AMAZON.CO (ecommerce partner),  ana   paula ,IT_Luanda,Cash,,,#DIV/0!
+2022-04-26,KERO (hypermarket), CARLOS   miguEL ,Sales_Luanda,Cash,4201,968,0.23042132825517733
+07-25-2023,AMAZON.CO (ecommerce partner),  joSE  manuel  ,IT_Luanda,Transfer,,,#DIV/0!
+24/10/2022,MAXI CASH (distributor), CARLOS   miguEL ,Finance_Luanda,Card,,1756,#DIV/0!
+17/07/2022,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Finance_Luanda,Card,6977,,#DIV/0!
+09/09/2023,MAXI CASH (distributor),   marta  silva ,Logistics_Luanda,Transfer,7604,1464,0.19253024723829562
+2023-11-17,"TESLA, INC. (wholesale client)",   marta  silva ,Logistics_Luanda,PayPal,6432,922,0.1433457711442786
+13/04/2022,AMAZON.CO (ecommerce partner),   marta  silva ,Logistics_Luanda,Cash,3687,,#DIV/0!
+04/09/2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Finance_Luanda,Card,7509,1238,0.16486882407777334
+2023-02-27,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Logistics_Luanda,PayPal,,1931,#DIV/0!
+02/09/2022,ARZAMART (flagship),  ana   paula ,Sales_Benguela,Transfer,,,#DIV/0!
+05/06/2023,KERO (hypermarket), CARLOS   miguEL ,Sales_Benguela,Cash,5597,1387,0.24781132749687332
+27/10/2022,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,IT_Luanda,Transfer,6354,,#DIV/0!
+2022-06-20,WALMART INTL (bulk buyer),  joSE  manuel  ,Logistics_Huambo,Cash,6747,,#DIV/0!
+31/01/2024,WALMART INTL (bulk buyer),  ana   paula ,Sales_Benguela,Cash,7680,,#DIV/0!
+28/09/2023,ARZAMART (flagship), LUIZ   fernando ,Sales_Benguela,Cash,5635,,#DIV/0!
+18/09/2022,KERO (hypermarket),  ana   paula ,Finance_Luanda,Cash,7646,,#DIV/0!
+2023-05-23,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Sales_Luanda,Cash,7900,1339,0.16949367088607595
+03-29-2022,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Benguela,Card,7202,,#DIV/0!
+2024-02-07,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Finance_Luanda,PayPal,4673,,#DIV/0!
+31/05/2023,ARZAMART (flagship),  joSE  manuel  ,Logistics_Luanda,Cash,,,#DIV/0!
+19/06/2023,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Luanda,Cash,4981,1506,0.3023489259184903
+2024-01-07,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Finance_Luanda,PayPal,,,#DIV/0!
+2022-01-30,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Logistics_Huambo,Cash,5009,1107,0.22100219604711518
+2023-08-06,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Luanda,PayPal,3304,1463,0.4427966101694915
+23/04/2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,IT_Luanda,Card,6777,,#DIV/0!
+2022-06-29,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,IT_Luanda,PayPal,6645,958,0.14416854778028593
+11/01/2023,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Sales_Luanda,Cash,7680,,#DIV/0!
+2022-01-07,KERO (hypermarket),  ana   paula ,Logistics_Huambo,PayPal,4828,,#DIV/0!
+03/06/2022,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Finance_Luanda,Card,,1218,#DIV/0!
+06/04/2022,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Sales_Luanda,PayPal,6210,,#DIV/0!
+09-30-2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Huambo,PayPal,,,#DIV/0!
+05-13-2022,ARZAMART (flagship), CARLOS   miguEL ,Sales_Luanda,Card,,1195,#DIV/0!
+05/05/2022,KERO (hypermarket),   marta  silva ,Finance_Luanda,Card,,,#DIV/0!
+05-02-2023,MAXI CASH (distributor),  ana   paula ,Finance_Luanda,Card,4240,1697,0.40023584905660375
+06-21-2023,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Logistics_Huambo,Card,,1172,#DIV/0!
+08-15-2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Finance_Luanda,Cash,6992,1694,0.24227688787185356
+07/10/2023,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Luanda,Card,4110,1048,0.25498783454987833
+01-14-2024,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Benguela,PayPal,6097,1019,0.16713137608659998
+01-12-2022,MAXI CASH (distributor),   marta  silva ,IT_Luanda,PayPal,,,#DIV/0!
+26/08/2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Luanda,Cash,7137,,#DIV/0!
+02-19-2024,MAXI CASH (distributor), LUIZ   fernando ,Finance_Luanda,PayPal,5346,,#DIV/0!
+2023-10-08,WALMART INTL (bulk buyer),  joSE  manuel  ,Finance_Luanda,Cash,5658,1537,0.27165075998586075
+16/09/2022,KERO (hypermarket), CARLOS   miguEL ,Logistics_Luanda,Transfer,7560,,#DIV/0!
+29/11/2022,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Sales_Luanda,PayPal,,,#DIV/0!
+01-24-2022,MAXI CASH (distributor),  ana   paula ,Logistics_Luanda,PayPal,,,#DIV/0!
+13/10/2023,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Card,,,#DIV/0!
+12/11/2022,ARZAMART (flagship),   marta  silva ,Logistics_Huambo,Transfer,7813,1016,0.13003967746064252
+2023-11-26,KERO (hypermarket),   marta  silva ,Logistics_Huambo,Card,7321,697,0.09520557300915175
+2022-09-22,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Luanda,PayPal,6496,1897,0.2920258620689655
+2023-12-28,KERO (hypermarket),   marta  silva ,Logistics_Luanda,Cash,3701,1761,0.475817346663064
+20/10/2022,MAXI CASH (distributor),  joSE  manuel  ,Sales_Benguela,Cash,,,#DIV/0!
+2023-10-25,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Luanda,Transfer,,,#DIV/0!
+13/09/2022,AMAZON.CO (ecommerce partner),   marta  silva ,Finance_Luanda,Transfer,6410,1375,0.21450858034321374
+12-29-2023,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Luanda,PayPal,,528,#DIV/0!
+2023-10-13,ARZAMART (flagship), CARLOS   miguEL ,Finance_Luanda,Transfer,7270,,#DIV/0!
+08-28-2022,MAXI CASH (distributor), pedro    ALVES ,Logistics_Huambo,Cash,7202,879,0.12204943071369063
+27/02/2024,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,PayPal,,,#DIV/0!
+21/07/2023,ARZAMART (flagship),   marta  silva ,IT_Luanda,Card,7755,1486,0.19161831076724695
+2024-01-17,ARZAMART (flagship),   marta  silva ,Logistics_Luanda,PayPal,6229,,#DIV/0!
+2022-03-16,WALMART INTL (bulk buyer),  ana   paula ,Finance_Luanda,Transfer,5534,953,0.17220816769063968
+2024-01-03,ARZAMART (flagship), CARLOS   miguEL ,Finance_Luanda,Transfer,,,#DIV/0!
+2023-09-30,KERO (hypermarket), LUIZ   fernando ,Sales_Benguela,Transfer,3205,1606,0.5010920436817473
+13/01/2024,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Huambo,Card,,1679,#DIV/0!
+21/06/2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Luanda,Transfer,5355,,#DIV/0!
+29/08/2023,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Finance_Luanda,Transfer,,,#DIV/0!
+12-05-2022,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Luanda,Cash,,841,#DIV/0!
+2022-09-13,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Huambo,PayPal,7125,,#DIV/0!
+03-10-2023,WALMART INTL (bulk buyer),   marta  silva ,Finance_Luanda,Cash,4876,,#DIV/0!
+2022-09-23,AMAZON.CO (ecommerce partner), pedro    ALVES ,Finance_Luanda,PayPal,6613,,#DIV/0!
+2024-02-18,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Luanda,Card,3498,,#DIV/0!
+2022-08-09,WALMART INTL (bulk buyer),  joSE  manuel  ,Sales_Luanda,Cash,,,#DIV/0!
+09/05/2022,WALMART INTL (bulk buyer),  joSE  manuel  ,Logistics_Huambo,PayPal,7603,,#DIV/0!
+01-20-2024,WALMART INTL (bulk buyer), CARLOS   miguEL ,Logistics_Huambo,PayPal,4746,1460,0.3076274757690687
+04-06-2023,ARZAMART (flagship),  joSE  manuel  ,Logistics_Huambo,PayPal,7992,1661,0.20783283283283283
+11-28-2022,MAXI CASH (distributor), pedro    ALVES ,Logistics_Huambo,PayPal,,1144,#DIV/0!
+12/01/2023,AMAZON.CO (ecommerce partner), LUIZ   fernando ,IT_Luanda,Cash,,1854,#DIV/0!
+06-17-2022,ARZAMART (flagship),   marta  silva ,IT_Luanda,PayPal,5571,,#DIV/0!
+16/09/2023,MAXI CASH (distributor),   marta  silva ,Logistics_Huambo,Transfer,5288,1692,0.3199697428139183
+2022-11-15,MAXI CASH (distributor),   marta  silva ,Logistics_Huambo,Cash,4941,700,0.14167172637117992
+06/03/2023,KERO (hypermarket),  ana   paula ,Sales_Benguela,Transfer,6915,1896,0.2741865509761388
+2022-09-19,KERO (hypermarket), LUIZ   fernando ,Sales_Benguela,Transfer,7173,1187,0.16548166736372508
+16/08/2023,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Luanda,Card,3108,1564,0.5032175032175032
+08-06-2022,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Luanda,Transfer,,,#DIV/0!
+2023-09-23,ARZAMART (flagship),   marta  silva ,Finance_Luanda,Card,3918,,#DIV/0!
+2023-11-20,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Luanda,PayPal,,,#DIV/0!
+2022-10-05,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Logistics_Huambo,Card,3809,1462,0.3838277763192439
+06-15-2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Sales_Luanda,Transfer,5517,,#DIV/0!
+07-09-2023,ARZAMART (flagship),  joSE  manuel  ,Sales_Luanda,Cash,6557,526,0.08021961262772609
+10-16-2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Luanda,Card,,602,#DIV/0!
+2022-01-04,SHOPRITE ANGOLA (regional store),   marta  silva ,Logistics_Luanda,Cash,,1695,#DIV/0!
+01-22-2024,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,Cash,6299,1202,0.19082394030798538
+09-17-2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Benguela,PayPal,6163,,#DIV/0!
+02-29-2024,"TESLA, INC. (wholesale client)",   marta  silva ,Finance_Luanda,PayPal,7913,,#DIV/0!
+11-18-2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Luanda,Card,3248,,#DIV/0!
+2023-06-27,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Huambo,Cash,,664,#DIV/0!
+2022-05-25,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Huambo,Cash,7710,758,0.09831387808041504
+19/02/2024,NOSSO SUPERMERCADO (state-owned),  ana   paula ,IT_Luanda,Cash,,1797,#DIV/0!
+2022-06-22,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Benguela,Card,,,#DIV/0!
+25/05/2023,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Transfer,,1036,#DIV/0!
+22/12/2022,MAXI CASH (distributor),   marta  silva ,Finance_Luanda,Card,7183,1209,0.16831407489906725
+07-06-2023,KERO (hypermarket), LUIZ   fernando ,Sales_Benguela,Cash,6726,1621,0.24100505501040737
+05-26-2022,MAXI CASH (distributor), CARLOS   miguEL ,IT_Luanda,Card,,1511,#DIV/0!
+07-09-2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Luanda,PayPal,,,#DIV/0!
+2022-12-03,KERO (hypermarket), pedro    ALVES ,Sales_Benguela,Card,,1669,#DIV/0!
+03-11-2024,MAXI CASH (distributor), pedro    ALVES ,Sales_Luanda,Transfer,5407,,#DIV/0!
+2023-01-01,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Luanda,Transfer,4628,,#DIV/0!
+08-31-2022,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Huambo,PayPal,4549,,#DIV/0!
+02-03-2023,WALMART INTL (bulk buyer),  joSE  manuel  ,Sales_Luanda,Transfer,6911,,#DIV/0!
+2022-11-07,"TESLA, INC. (wholesale client)", pedro    ALVES ,IT_Luanda,Card,,,#DIV/0!
+07-29-2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Luanda,Transfer,4427,1827,0.4126948271967472
+02-04-2023,ARZAMART (flagship), CARLOS   miguEL ,IT_Luanda,PayPal,3924,692,0.1763506625891947
+02-19-2023,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Benguela,Card,,,#DIV/0!
+09-28-2022,AMAZON.CO (ecommerce partner), pedro    ALVES ,IT_Luanda,Card,5465,,#DIV/0!
+02-18-2023,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Benguela,Card,4784,702,0.14673913043478262
+10-02-2022,KERO (hypermarket), LUIZ   fernando ,Finance_Luanda,Cash,,1072,#DIV/0!
+2022-10-08,KERO (hypermarket), LUIZ   fernando ,Sales_Luanda,Cash,,949,#DIV/0!
+2022-03-23,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Luanda,Transfer,6525,1756,0.26911877394636013
+2022-02-14,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Logistics_Huambo,Transfer,6431,,#DIV/0!
+2023-07-04,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Finance_Luanda,Cash,5494,1384,0.2519111758281762
+09-11-2023,WALMART INTL (bulk buyer),  joSE  manuel  ,Sales_Luanda,Card,6652,,#DIV/0!
+22/01/2024,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Huambo,Transfer,,606,#DIV/0!
+2023-04-10,ARZAMART (flagship), LUIZ   fernando ,IT_Luanda,Card,3284,1000,0.30450669914738127
+2023-12-24,AMAZON.CO (ecommerce partner), pedro    ALVES ,IT_Luanda,PayPal,,,#DIV/0!
+2022-08-06,WALMART INTL (bulk buyer), pedro    ALVES ,Logistics_Huambo,Transfer,,1744,#DIV/0!
+2022-04-10,KERO (hypermarket),  joSE  manuel  ,IT_Luanda,Cash,7770,952,0.12252252252252252
+23/05/2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,IT_Luanda,Cash,7832,1991,0.2542134831460674
+2022-08-02,WALMART INTL (bulk buyer),   marta  silva ,Sales_Benguela,Card,5317,1741,0.3274402858754937
+2022-12-27,MAXI CASH (distributor), pedro    ALVES ,Sales_Benguela,PayPal,6756,,#DIV/0!
+28/11/2022,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Huambo,Card,7185,,#DIV/0!
+02-23-2023,MAXI CASH (distributor),  joSE  manuel  ,Finance_Luanda,Transfer,3780,956,0.2529100529100529
+10-12-2023,"TESLA, INC. (wholesale client)",   marta  silva ,IT_Luanda,PayPal,,,#DIV/0!
+2023-10-21,ARZAMART (flagship), pedro    ALVES ,Finance_Luanda,Cash,5655,1064,0.1881520778072502
+25/02/2023,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Sales_Luanda,Transfer,,688,#DIV/0!
+25/02/2024,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Benguela,PayPal,7378,1641,0.22241799945784765
+2022-04-14,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Logistics_Huambo,Card,,,#DIV/0!
+2023-12-05,ARZAMART (flagship),  ana   paula ,Sales_Benguela,Transfer,5404,,#DIV/0!
+2024-02-22,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Luanda,Transfer,6495,,#DIV/0!
+2022-06-06,ARZAMART (flagship),  ana   paula ,IT_Luanda,Transfer,3804,1251,0.32886435331230285
+06-27-2022,AMAZON.CO (ecommerce partner),   marta  silva ,Finance_Luanda,Transfer,4373,,#DIV/0!
+2022-06-23,AMAZON.CO (ecommerce partner),   marta  silva ,Logistics_Luanda,PayPal,4281,,#DIV/0!
+2023-07-20,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Huambo,Card,3055,1983,0.6490998363338789
+04/08/2023,WALMART INTL (bulk buyer),   marta  silva ,IT_Luanda,Transfer,7263,1769,0.2435632658680986
+02/11/2023,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Logistics_Luanda,Card,7649,,#DIV/0!
+08-29-2023,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Huambo,Cash,,1073,#DIV/0!
+03/02/2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Benguela,Cash,,1541,#DIV/0!
+02-01-2023,MAXI CASH (distributor),  ana   paula ,Finance_Luanda,Transfer,3687,,#DIV/0!
+03-04-2024,MAXI CASH (distributor),  joSE  manuel  ,Sales_Luanda,Card,,,#DIV/0!
+11-22-2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Logistics_Huambo,Transfer,3350,,#DIV/0!
+03-17-2022,MAXI CASH (distributor), pedro    ALVES ,IT_Luanda,Card,7434,,#DIV/0!
+2022-02-10,KERO (hypermarket), pedro    ALVES ,Finance_Luanda,Card,,1724,#DIV/0!
+09-20-2023,KERO (hypermarket),   marta  silva ,Logistics_Huambo,PayPal,4973,1615,0.32475366981701187
+15/11/2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Huambo,Transfer,7585,992,0.13078444297956493
+02-06-2022,WALMART INTL (bulk buyer),  joSE  manuel  ,Sales_Luanda,Card,,939,#DIV/0!
+18/11/2022,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Huambo,Transfer,6189,1231,0.19890127645823236
+29/09/2022,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Benguela,Transfer,4737,,#DIV/0!
+12-15-2023,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Logistics_Luanda,Cash,3768,,#DIV/0!
+25/07/2022,WALMART INTL (bulk buyer), CARLOS   miguEL ,Sales_Benguela,Cash,,,#DIV/0!
+2023-06-17,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Sales_Luanda,Card,4507,,#DIV/0!
+10-05-2022,WALMART INTL (bulk buyer),  ana   paula ,Finance_Luanda,Transfer,3786,,#DIV/0!
+01/06/2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Benguela,Transfer,,,#DIV/0!
+2023-03-29,SHOPRITE ANGOLA (regional store),   marta  silva ,Finance_Luanda,Transfer,3295,1678,0.5092564491654021
+09-06-2023,WALMART INTL (bulk buyer),  ana   paula ,Finance_Luanda,Card,,1212,#DIV/0!
+20/12/2023,MAXI CASH (distributor), pedro    ALVES ,Finance_Luanda,Card,5160,,#DIV/0!
+13/12/2022,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Luanda,Cash,5184,,#DIV/0!
+07-05-2022,AMAZON.CO (ecommerce partner), LUIZ   fernando ,IT_Luanda,PayPal,4743,1750,0.3689647902171621
+26/07/2022,AMAZON.CO (ecommerce partner), pedro    ALVES ,Finance_Luanda,Card,7782,1188,0.15265998457979954
+24/03/2022,KERO (hypermarket),  joSE  manuel  ,Sales_Luanda,Cash,6331,1228,0.19396619807297424
+21/06/2023,AMAZON.CO (ecommerce partner),  ana   paula ,IT_Luanda,Transfer,3160,1539,0.4870253164556962
+2023-04-18,KERO (hypermarket),   marta  silva ,Logistics_Luanda,Transfer,,901,#DIV/0!
+2023-10-08,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Finance_Luanda,Cash,,1584,#DIV/0!
+04-07-2023,AMAZON.CO (ecommerce partner),   marta  silva ,Sales_Luanda,Cash,5156,1724,0.3343677269200931
+24/12/2022,SHOPRITE ANGOLA (regional store),  ana   paula ,Sales_Benguela,Card,6262,1123,0.17933567550303417
+2022-12-31,ARZAMART (flagship),   marta  silva ,Finance_Luanda,Cash,,,#DIV/0!
+09-04-2023,AMAZON.CO (ecommerce partner),  ana   paula ,Sales_Luanda,Card,4330,,#DIV/0!
+2022-12-15,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Finance_Luanda,Cash,,1616,#DIV/0!
+11-11-2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Benguela,PayPal,,1837,#DIV/0!
+2022-04-22,ARZAMART (flagship),  joSE  manuel  ,Finance_Luanda,Cash,3129,,#DIV/0!
+28/10/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Sales_Luanda,Card,,,#DIV/0!
+2023-01-05,SHOPRITE ANGOLA (regional store),   marta  silva ,IT_Luanda,PayPal,,1700,#DIV/0!
+13/09/2022,ARZAMART (flagship), CARLOS   miguEL ,Sales_Luanda,Card,6523,,#DIV/0!
+25/01/2024,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Huambo,Transfer,6076,966,0.15898617511520738
+09-30-2022,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Sales_Luanda,PayPal,3098,1884,0.6081342801807618
+16/12/2022,AMAZON.CO (ecommerce partner),  ana   paula ,Logistics_Huambo,Card,3815,,#DIV/0!
+2022-12-12,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Luanda,Card,4245,1076,0.25347467608951707
+2023-07-08,WALMART INTL (bulk buyer), CARLOS   miguEL ,IT_Luanda,Transfer,6171,,#DIV/0!
+11-03-2022,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Huambo,Transfer,,1115,#DIV/0!
+07-18-2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Finance_Luanda,Transfer,,1290,#DIV/0!
+08-28-2023,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Logistics_Luanda,Cash,6194,1198,0.19341298030351953
+02/04/2023,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Logistics_Huambo,Cash,5102,,#DIV/0!
+15/06/2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Sales_Benguela,PayPal,,,#DIV/0!
+11/03/2023,ARZAMART (flagship),   marta  silva ,Logistics_Luanda,Cash,5740,1474,0.25679442508710804
+28/08/2022,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Sales_Luanda,PayPal,4228,,#DIV/0!
+19/07/2022,WALMART INTL (bulk buyer),  ana   paula ,Finance_Luanda,Card,7243,854,0.11790694463620047
+05-10-2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Finance_Luanda,PayPal,,,#DIV/0!
+05-03-2022,KERO (hypermarket), LUIZ   fernando ,Finance_Luanda,Cash,7826,,#DIV/0!
+28/04/2022,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Logistics_Huambo,PayPal,4848,,#DIV/0!
+07-14-2023,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Sales_Benguela,Card,,774,#DIV/0!
+2022-04-13,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Huambo,Cash,7542,,#DIV/0!
+2024-01-14,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Finance_Luanda,PayPal,6028,,#DIV/0!
+2022-09-27,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Logistics_Huambo,Cash,5161,1680,0.32551831040496026
+08-18-2023,ARZAMART (flagship),  ana   paula ,IT_Luanda,Card,,1776,#DIV/0!
+18/05/2022,KERO (hypermarket),  ana   paula ,Sales_Luanda,Cash,7231,,#DIV/0!
+2023-03-15,KERO (hypermarket),  ana   paula ,Sales_Luanda,PayPal,5730,709,0.1237347294938918
+10-05-2022,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Huambo,Transfer,,1686,#DIV/0!
+01-25-2022,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Luanda,Card,5561,,#DIV/0!
+09/01/2022,KERO (hypermarket), LUIZ   fernando ,Finance_Luanda,Transfer,7310,,#DIV/0!
+31/08/2022,ARZAMART (flagship), pedro    ALVES ,Finance_Luanda,Transfer,5876,,#DIV/0!
+07-24-2022,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Logistics_Luanda,Card,5846,,#DIV/0!
+01-21-2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Luanda,Card,3985,867,0.2175658720200753
+12/11/2023,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Luanda,Card,3335,,#DIV/0!
+12-02-2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Luanda,Card,,1853,#DIV/0!
+07-18-2022,ARZAMART (flagship),   marta  silva ,Finance_Luanda,Transfer,,1628,#DIV/0!
+2023-11-17,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Luanda,Transfer,5146,1931,0.3752429071123202
+10-21-2023,WALMART INTL (bulk buyer), LUIZ   fernando ,Finance_Luanda,Cash,,658,#DIV/0!
+26/06/2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,IT_Luanda,PayPal,4236,,#DIV/0!
+02/10/2022,WALMART INTL (bulk buyer), LUIZ   fernando ,IT_Luanda,Transfer,4967,1994,0.4014495671431448
+01-05-2023,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Logistics_Luanda,PayPal,,1071,#DIV/0!
+20/01/2023,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Huambo,PayPal,4716,,#DIV/0!
+03-02-2022,KERO (hypermarket), CARLOS   miguEL ,Logistics_Luanda,Cash,6165,,#DIV/0!
+02-13-2024,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Huambo,PayPal,5792,,#DIV/0!
+14/10/2022,KERO (hypermarket),  joSE  manuel  ,Finance_Luanda,PayPal,,1820,#DIV/0!
+2023-08-02,SHOPRITE ANGOLA (regional store),  ana   paula ,Finance_Luanda,Card,,,#DIV/0!
+2023-06-10,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Logistics_Luanda,PayPal,7292,,#DIV/0!
+2022-08-05,KERO (hypermarket), LUIZ   fernando ,Sales_Benguela,Transfer,,1453,#DIV/0!
+02-12-2023,MAXI CASH (distributor),  joSE  manuel  ,Sales_Benguela,Card,5030,1710,0.3399602385685885
+2022-10-08,KERO (hypermarket),   marta  silva ,Sales_Benguela,Card,5040,927,0.18392857142857144
+30/11/2022,MAXI CASH (distributor),  ana   paula ,Sales_Benguela,Card,,1583,#DIV/0!
+2022-10-25,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Finance_Luanda,Card,5181,,#DIV/0!
+02-26-2023,MAXI CASH (distributor), LUIZ   fernando ,Sales_Luanda,Cash,,,#DIV/0!
+19/09/2023,KERO (hypermarket),   marta  silva ,IT_Luanda,Cash,,,#DIV/0!
+22/04/2022,MAXI CASH (distributor), LUIZ   fernando ,Logistics_Huambo,PayPal,5323,556,0.1044523764794289
+2022-09-20,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Sales_Luanda,Transfer,,,#DIV/0!
+23/01/2023,MAXI CASH (distributor), LUIZ   fernando ,Finance_Luanda,Transfer,4645,,#DIV/0!
+09-23-2023,AMAZON.CO (ecommerce partner),   marta  silva ,Sales_Benguela,Transfer,5204,,#DIV/0!
+11-13-2023,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Huambo,Transfer,,,#DIV/0!
+05-12-2022,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Finance_Luanda,Card,7374,954,0.12937347436940602
+04-25-2023,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Luanda,Transfer,7505,1545,0.20586275816122585
+09/02/2024,WALMART INTL (bulk buyer), CARLOS   miguEL ,Logistics_Huambo,Card,7472,,#DIV/0!
+13/09/2023,WALMART INTL (bulk buyer), pedro    ALVES ,IT_Luanda,Card,3987,,#DIV/0!
+06-07-2022,AMAZON.CO (ecommerce partner),  ana   paula ,IT_Luanda,PayPal,4650,1895,0.4075268817204301
+06-14-2022,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Sales_Benguela,PayPal,7286,,#DIV/0!
+15/01/2023,MAXI CASH (distributor),  joSE  manuel  ,Sales_Benguela,Transfer,3997,,#DIV/0!
+06-07-2022,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Sales_Luanda,Card,,1924,#DIV/0!
+10-30-2023,SHOPRITE ANGOLA (regional store), pedro    ALVES ,IT_Luanda,Card,,,#DIV/0!
+23/11/2023,KERO (hypermarket),  ana   paula ,Logistics_Luanda,Transfer,6888,1594,0.2314169570267131
+2023-11-03,KERO (hypermarket), CARLOS   miguEL ,IT_Luanda,Cash,5503,602,0.1093948755224423
+2022-03-19,ARZAMART (flagship), CARLOS   miguEL ,IT_Luanda,PayPal,6332,,#DIV/0!
+2023-11-21,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Logistics_Huambo,Card,4021,,#DIV/0!
+2023-09-03,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Sales_Luanda,Transfer,,1813,#DIV/0!
+03/05/2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Logistics_Luanda,Cash,7197,,#DIV/0!
+09-21-2023,NOSSO SUPERMERCADO (state-owned),   marta  silva ,IT_Luanda,Transfer,,,#DIV/0!
+10/01/2023,MAXI CASH (distributor), LUIZ   fernando ,Logistics_Huambo,Card,7058,,#DIV/0!
+24/06/2023,KERO (hypermarket),  joSE  manuel  ,Sales_Luanda,Cash,3763,936,0.24873770927451502
+06-07-2022,WALMART INTL (bulk buyer), pedro    ALVES ,Sales_Luanda,Card,4017,1128,0.280806572068708
+08-07-2023,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Finance_Luanda,Transfer,,1576,#DIV/0!
+2024-02-10,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Luanda,Cash,5661,,#DIV/0!
+07/04/2022,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Benguela,PayPal,5270,608,0.11537001897533207
+11/11/2022,MAXI CASH (distributor), LUIZ   fernando ,Sales_Benguela,PayPal,4075,1936,0.4750920245398773
+2022-12-21,ARZAMART (flagship),  joSE  manuel  ,Finance_Luanda,PayPal,7228,1546,0.21389042612064194
+23/09/2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Finance_Luanda,PayPal,5814,,#DIV/0!
+08/12/2022,AMAZON.CO (ecommerce partner),   marta  silva ,Logistics_Huambo,Cash,,869,#DIV/0!
+15/09/2022,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Huambo,PayPal,,1327,#DIV/0!
+03-04-2022,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Finance_Luanda,Card,4895,,#DIV/0!
+2022-11-15,KERO (hypermarket), CARLOS   miguEL ,Logistics_Luanda,Card,,,#DIV/0!
+10-20-2022,"TESLA, INC. (wholesale client)", pedro    ALVES ,Logistics_Huambo,Transfer,7850,,#DIV/0!
+25/04/2023,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,Transfer,,,#DIV/0!
+2023-02-23,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Logistics_Luanda,Card,,,#DIV/0!
+2023-10-31,AMAZON.CO (ecommerce partner),   marta  silva ,Logistics_Luanda,Card,6696,,#DIV/0!
+2022-07-16,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,IT_Luanda,Transfer,,868,#DIV/0!
+2023-07-20,WALMART INTL (bulk buyer), LUIZ   fernando ,Sales_Benguela,PayPal,8000,1838,0.22975
+08-23-2023,ARZAMART (flagship),   marta  silva ,Sales_Luanda,Cash,,1517,#DIV/0!
+2022-08-17,ARZAMART (flagship), LUIZ   fernando ,Logistics_Luanda,Transfer,7277,592,0.08135220557922221
+2023-07-23,MAXI CASH (distributor), LUIZ   fernando ,Finance_Luanda,Transfer,3627,983,0.27102288392610974
+01-03-2023,ARZAMART (flagship), CARLOS   miguEL ,Finance_Luanda,Transfer,3274,,#DIV/0!
+08-30-2022,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Luanda,PayPal,,865,#DIV/0!
+01-14-2024,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Huambo,Transfer,4803,,#DIV/0!
+03-20-2023,AMAZON.CO (ecommerce partner), pedro    ALVES ,Finance_Luanda,Card,6990,,#DIV/0!
+10-30-2023,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Luanda,Transfer,,,#DIV/0!
+2022-06-04,WALMART INTL (bulk buyer),   marta  silva ,Sales_Luanda,Card,4561,1728,0.3788642841482131
+05/03/2024,WALMART INTL (bulk buyer),   marta  silva ,Finance_Luanda,PayPal,5975,,#DIV/0!
+11/08/2022,AMAZON.CO (ecommerce partner), LUIZ   fernando ,IT_Luanda,Card,6855,1229,0.17928519328956966
+04/05/2023,AMAZON.CO (ecommerce partner),   marta  silva ,IT_Luanda,Transfer,3776,,#DIV/0!
+2023-12-17,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Luanda,Card,4930,1508,0.3058823529411765
+12/11/2022,MAXI CASH (distributor),   marta  silva ,Logistics_Luanda,Transfer,5453,,#DIV/0!
+2022-11-01,KERO (hypermarket), LUIZ   fernando ,Finance_Luanda,Transfer,,,#DIV/0!
+25/02/2023,KERO (hypermarket), pedro    ALVES ,Logistics_Luanda,Card,4181,,#DIV/0!
+2023-07-07,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,IT_Luanda,Card,5793,1947,0.3360952874158467
+05-29-2023,MAXI CASH (distributor), LUIZ   fernando ,Sales_Benguela,Card,4948,1418,0.2865804365400162
+2023-10-19,KERO (hypermarket), LUIZ   fernando ,Sales_Luanda,PayPal,,1677,#DIV/0!
+02-12-2023,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Finance_Luanda,Cash,3557,,#DIV/0!
+2022-09-27,WALMART INTL (bulk buyer), LUIZ   fernando ,Logistics_Luanda,PayPal,6576,,#DIV/0!
+03-18-2023,ARZAMART (flagship), CARLOS   miguEL ,IT_Luanda,Card,4612,,#DIV/0!
+06-14-2023,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Logistics_Luanda,Cash,7695,1766,0.2294996751137102
+2023-12-18,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Luanda,Transfer,,1042,#DIV/0!
+2022-01-15,WALMART INTL (bulk buyer), pedro    ALVES ,Sales_Luanda,Card,5362,965,0.17997016038791497
+12/02/2022,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Luanda,Transfer,4792,,#DIV/0!
+04-21-2022,WALMART INTL (bulk buyer), CARLOS   miguEL ,Sales_Luanda,PayPal,,,#DIV/0!
+2023-04-02,MAXI CASH (distributor), LUIZ   fernando ,Sales_Luanda,PayPal,3277,1397,0.42630454684162344
+2024-01-05,MAXI CASH (distributor),   marta  silva ,Sales_Luanda,Cash,7925,,#DIV/0!
+02-10-2024,WALMART INTL (bulk buyer), LUIZ   fernando ,IT_Luanda,Cash,6410,790,0.12324492979719189
+2022-07-19,SHOPRITE ANGOLA (regional store),  ana   paula ,Finance_Luanda,PayPal,,1752,#DIV/0!
+08/05/2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Luanda,Cash,7998,,#DIV/0!
+01-15-2022,SHOPRITE ANGOLA (regional store),  ana   paula ,IT_Luanda,Cash,,,#DIV/0!
+03-21-2022,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Benguela,Transfer,4320,,#DIV/0!
+2022-10-15,SHOPRITE ANGOLA (regional store),   marta  silva ,Sales_Luanda,Card,5747,1004,0.17469984339655473
+2022-09-02,AMAZON.CO (ecommerce partner),   marta  silva ,Sales_Luanda,PayPal,6578,,#DIV/0!
+06-19-2022,AMAZON.CO (ecommerce partner),   marta  silva ,Sales_Benguela,Card,,690,#DIV/0!
+11-16-2023,MAXI CASH (distributor),   marta  silva ,Finance_Luanda,PayPal,,1942,#DIV/0!
+10-13-2023,ARZAMART (flagship),  joSE  manuel  ,Finance_Luanda,Cash,7456,619,0.08302038626609443
+26/12/2022,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Luanda,Transfer,6526,,#DIV/0!
+2022-11-25,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Sales_Luanda,PayPal,,1308,#DIV/0!
+2023-12-13,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Sales_Benguela,PayPal,7632,1153,0.15107442348008385
+2023-03-07,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Finance_Luanda,Card,5465,,#DIV/0!
+13/06/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Logistics_Luanda,Transfer,3029,,#DIV/0!
+30/09/2022,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Finance_Luanda,Card,,1000,#DIV/0!
+06-19-2023,ARZAMART (flagship),  joSE  manuel  ,Finance_Luanda,PayPal,4837,892,0.18441182551168078
+08/01/2024,AMAZON.CO (ecommerce partner), pedro    ALVES ,Logistics_Luanda,PayPal,7043,,#DIV/0!
+03-22-2022,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Sales_Benguela,PayPal,6987,,#DIV/0!
+2023-05-12,"TESLA, INC. (wholesale client)", pedro    ALVES ,Logistics_Luanda,PayPal,,,#DIV/0!
+19/04/2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Luanda,Transfer,,1232,#DIV/0!
+09-10-2023,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Finance_Luanda,Cash,4794,,#DIV/0!
+2022-04-16,AMAZON.CO (ecommerce partner),   marta  silva ,Sales_Luanda,Card,7969,863,0.10829464173672983
+2023-01-21,"TESLA, INC. (wholesale client)", pedro    ALVES ,Sales_Luanda,Card,7992,,#DIV/0!
+01/06/2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Sales_Benguela,Transfer,7905,,#DIV/0!
+11-12-2022,WALMART INTL (bulk buyer),  ana   paula ,IT_Luanda,Transfer,6821,,#DIV/0!
+10-02-2023,AMAZON.CO (ecommerce partner),  ana   paula ,Finance_Luanda,Transfer,,,#DIV/0!
+18/07/2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,IT_Luanda,PayPal,4023,1201,0.2985334327616207
+09-17-2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,IT_Luanda,PayPal,7300,,#DIV/0!
+2023-04-02,"TESLA, INC. (wholesale client)", pedro    ALVES ,Logistics_Huambo,Card,5295,,#DIV/0!
+12-01-2023,KERO (hypermarket),  joSE  manuel  ,Finance_Luanda,PayPal,7955,1732,0.2177247014456317
+05/03/2024,KERO (hypermarket), LUIZ   fernando ,Sales_Benguela,Cash,3766,605,0.16064790228359002
+2022-11-11,MAXI CASH (distributor),  ana   paula ,Finance_Luanda,PayPal,,,#DIV/0!
+06-12-2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Finance_Luanda,Transfer,,1038,#DIV/0!
+09-03-2022,ARZAMART (flagship), pedro    ALVES ,Sales_Benguela,Transfer,6450,,#DIV/0!
+08-24-2023,WALMART INTL (bulk buyer),  joSE  manuel  ,Logistics_Huambo,PayPal,,,#DIV/0!
+2023-12-18,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,IT_Luanda,Card,,1061,#DIV/0!
+03/02/2022,MAXI CASH (distributor), pedro    ALVES ,IT_Luanda,Transfer,7342,,#DIV/0!
+2023-12-05,MAXI CASH (distributor),  joSE  manuel  ,IT_Luanda,PayPal,6670,1165,0.17466266866566715
+30/07/2023,WALMART INTL (bulk buyer), CARLOS   miguEL ,Sales_Benguela,Transfer,,,#DIV/0!
+12-31-2022,MAXI CASH (distributor),  ana   paula ,IT_Luanda,Cash,3917,915,0.23359714066887924
+22/02/2024,KERO (hypermarket),  joSE  manuel  ,IT_Luanda,Card,6814,,#DIV/0!
+29/09/2023,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Sales_Benguela,Transfer,,,#DIV/0!
+02-03-2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Sales_Luanda,PayPal,7863,,#DIV/0!
+2023-10-17,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Finance_Luanda,Card,,,#DIV/0!
+02/02/2022,KERO (hypermarket),   marta  silva ,Logistics_Huambo,PayPal,4172,,#DIV/0!
+30/06/2023,KERO (hypermarket), LUIZ   fernando ,Logistics_Luanda,Cash,,,#DIV/0!
+2022-04-19,WALMART INTL (bulk buyer),  joSE  manuel  ,IT_Luanda,PayPal,,,#DIV/0!
+09-15-2023,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Huambo,Cash,4465,1364,0.30548712206047035
+08-18-2022,KERO (hypermarket),   marta  silva ,Finance_Luanda,Transfer,6360,,#DIV/0!
+08/12/2022,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,IT_Luanda,PayPal,3189,,#DIV/0!
+14/09/2023,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Sales_Benguela,Card,,,#DIV/0!
+2023-10-20,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Finance_Luanda,Card,7002,,#DIV/0!
+29/09/2023,MAXI CASH (distributor),   marta  silva ,Sales_Luanda,PayPal,,,#DIV/0!
+2023-02-25,ARZAMART (flagship), LUIZ   fernando ,IT_Luanda,Transfer,,,#DIV/0!
+2024-02-23,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Finance_Luanda,Card,5536,,#DIV/0!
+05-20-2022,WALMART INTL (bulk buyer), pedro    ALVES ,Logistics_Huambo,Transfer,,513,#DIV/0!
+27/01/2023,ARZAMART (flagship),   marta  silva ,Sales_Benguela,Transfer,,576,#DIV/0!
+2022-04-12,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Sales_Luanda,Card,3932,673,0.17115971515768058
+04-13-2023,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Luanda,PayPal,,1155,#DIV/0!
+2023-06-02,AMAZON.CO (ecommerce partner), pedro    ALVES ,IT_Luanda,Transfer,,739,#DIV/0!
+09-09-2023,MAXI CASH (distributor),  ana   paula ,Logistics_Huambo,Transfer,,,#DIV/0!
+2023-03-31,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Huambo,Card,8000,1398,0.17475
+12/04/2022,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Logistics_Huambo,Transfer,6165,,#DIV/0!
+2023-11-10,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Logistics_Huambo,Card,,1096,#DIV/0!
+09/12/2022,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Huambo,Cash,5707,595,0.1042579288592956
+04-06-2023,WALMART INTL (bulk buyer), pedro    ALVES ,Logistics_Huambo,Transfer,,,#DIV/0!
+2022-04-18,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Sales_Luanda,Transfer,6503,,#DIV/0!
+05-27-2022,WALMART INTL (bulk buyer), pedro    ALVES ,Sales_Luanda,Card,6508,929,0.14274738783036264
+2022-08-05,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Benguela,Transfer,4735,1807,0.3816261879619852
+05-07-2022,WALMART INTL (bulk buyer),  joSE  manuel  ,Logistics_Huambo,Transfer,,,#DIV/0!
+08-24-2023,WALMART INTL (bulk buyer), pedro    ALVES ,Sales_Benguela,PayPal,,850,#DIV/0!
+06/08/2023,KERO (hypermarket), pedro    ALVES ,Logistics_Luanda,PayPal,6071,,#DIV/0!
+11/12/2022,MAXI CASH (distributor),   marta  silva ,Logistics_Huambo,Cash,,615,#DIV/0!
+09-25-2022,KERO (hypermarket),  joSE  manuel  ,Sales_Benguela,Transfer,,,#DIV/0!
+02/07/2023,WALMART INTL (bulk buyer), LUIZ   fernando ,Sales_Benguela,Transfer,6198,,#DIV/0!
+20/05/2023,KERO (hypermarket), CARLOS   miguEL ,Sales_Luanda,Card,,,#DIV/0!
+2022-02-25,ARZAMART (flagship),  joSE  manuel  ,Logistics_Luanda,Transfer,,,#DIV/0!
+12-14-2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Luanda,Transfer,4753,,#DIV/0!
+2022-02-16,ARZAMART (flagship),   marta  silva ,Logistics_Huambo,Cash,,,#DIV/0!
+2024-01-27,MAXI CASH (distributor),  joSE  manuel  ,IT_Luanda,Card,7556,,#DIV/0!
+06-11-2023,SHOPRITE ANGOLA (regional store),   marta  silva ,Sales_Luanda,Cash,5248,,#DIV/0!
+2023-06-24,KERO (hypermarket),   marta  silva ,Logistics_Luanda,Cash,3909,993,0.2540291634689179
+27/03/2022,ARZAMART (flagship),   marta  silva ,Logistics_Huambo,Transfer,3713,,#DIV/0!
+28/09/2023,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Finance_Luanda,Card,,1052,#DIV/0!
+02/03/2022,AMAZON.CO (ecommerce partner),   marta  silva ,Logistics_Luanda,Transfer,4449,,#DIV/0!
+2022-01-09,AMAZON.CO (ecommerce partner), pedro    ALVES ,Logistics_Luanda,PayPal,6072,,#DIV/0!
+05-06-2023,ARZAMART (flagship), CARLOS   miguEL ,Sales_Benguela,Card,,,#DIV/0!
+31/08/2023,MAXI CASH (distributor), pedro    ALVES ,Sales_Benguela,Cash,,,#DIV/0!
+02-19-2022,KERO (hypermarket),   marta  silva ,Logistics_Huambo,Transfer,6450,1571,0.24356589147286822
+07/06/2023,KERO (hypermarket), CARLOS   miguEL ,IT_Luanda,PayPal,7706,,#DIV/0!
+23/04/2022,KERO (hypermarket), CARLOS   miguEL ,Finance_Luanda,Transfer,4318,1905,0.4411764705882353
+11/07/2022,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Benguela,Transfer,3271,1260,0.3852033017425864
+02-22-2022,SHOPRITE ANGOLA (regional store),   marta  silva ,Sales_Benguela,Card,5270,,#DIV/0!
+2023-12-16,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Finance_Luanda,Cash,4331,,#DIV/0!
+07-25-2023,WALMART INTL (bulk buyer), LUIZ   fernando ,IT_Luanda,Card,6267,,#DIV/0!
+10-14-2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Logistics_Luanda,Card,7102,,#DIV/0!
+01-19-2023,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Huambo,Card,7875,1025,0.13015873015873017
+2022-04-05,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Luanda,PayPal,5814,960,0.1651186790505676
+2023-08-19,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,IT_Luanda,Transfer,3314,,#DIV/0!
+10-15-2022,ARZAMART (flagship),  ana   paula ,Logistics_Huambo,PayPal,,631,#DIV/0!
+02-05-2022,"TESLA, INC. (wholesale client)",   marta  silva ,Logistics_Huambo,Card,5069,,#DIV/0!
+02/05/2023,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Benguela,Transfer,5387,,#DIV/0!
+08/05/2023,MAXI CASH (distributor),   marta  silva ,Finance_Luanda,Cash,,,#DIV/0!
+12-07-2022,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Card,3507,526,0.14998574280011406
+06-22-2022,KERO (hypermarket),  ana   paula ,Sales_Benguela,Cash,3161,1771,0.5602657386902878
+2023-01-08,ARZAMART (flagship), pedro    ALVES ,Finance_Luanda,PayPal,5563,,#DIV/0!
+2023-01-31,WALMART INTL (bulk buyer),  ana   paula ,IT_Luanda,Cash,4784,1261,0.26358695652173914
+10-18-2023,SHOPRITE ANGOLA (regional store),   marta  silva ,Sales_Benguela,Transfer,3356,1705,0.5080452920143027
+06-16-2022,KERO (hypermarket), LUIZ   fernando ,Sales_Luanda,Transfer,,,#DIV/0!
+27/11/2023,"TESLA, INC. (wholesale client)",   marta  silva ,Logistics_Luanda,PayPal,4942,,#DIV/0!
+01-15-2023,MAXI CASH (distributor), pedro    ALVES ,Sales_Luanda,Transfer,6210,,#DIV/0!
+02-08-2024,KERO (hypermarket),   marta  silva ,IT_Luanda,Card,,1269,#DIV/0!
+2023-07-24,NOSSO SUPERMERCADO (state-owned),   marta  silva ,IT_Luanda,Card,,,#DIV/0!
+08/02/2023,"TESLA, INC. (wholesale client)",   marta  silva ,IT_Luanda,PayPal,7929,,#DIV/0!
+2024-01-26,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Huambo,PayPal,7074,,#DIV/0!
+2024-02-02,SHOPRITE ANGOLA (regional store),  ana   paula ,Finance_Luanda,PayPal,,967,#DIV/0!
+10-07-2022,KERO (hypermarket),   marta  silva ,IT_Luanda,Card,5560,,#DIV/0!
+02/10/2023,KERO (hypermarket), pedro    ALVES ,Finance_Luanda,Card,7137,620,0.08687123441221802
+11-06-2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Luanda,PayPal,5137,1011,0.1968074751800662
+2022-02-16,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Huambo,Cash,6481,1324,0.20428946150285449
+2023-09-26,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Finance_Luanda,PayPal,3731,1597,0.42803537925489143
+06-30-2022,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Sales_Benguela,PayPal,5423,,#DIV/0!
+31/01/2023,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Finance_Luanda,Card,6014,920,0.15297638842700365
+2022-01-15,MAXI CASH (distributor),  joSE  manuel  ,IT_Luanda,Card,3256,1925,0.5912162162162162
+2023-01-12,KERO (hypermarket), LUIZ   fernando ,Finance_Luanda,Cash,7010,1644,0.23452211126961484
+01-25-2022,ARZAMART (flagship),  ana   paula ,Logistics_Huambo,Transfer,3942,963,0.24429223744292236
+05-19-2022,MAXI CASH (distributor),   marta  silva ,IT_Luanda,Transfer,7546,719,0.0952822687516565
+24/03/2023,MAXI CASH (distributor), LUIZ   fernando ,Logistics_Luanda,Transfer,3658,,#DIV/0!
+02-16-2024,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Sales_Luanda,PayPal,7577,,#DIV/0!
+2024-02-14,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,IT_Luanda,Cash,4648,,#DIV/0!
+2022-03-01,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Luanda,Card,,1189,#DIV/0!
+2023-11-04,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Huambo,Cash,7297,1026,0.14060572838152666
+27/11/2022,KERO (hypermarket), CARLOS   miguEL ,Logistics_Huambo,Cash,4365,1315,0.30126002290950743
+02/01/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Finance_Luanda,Cash,,558,#DIV/0!
+2024-01-20,WALMART INTL (bulk buyer), CARLOS   miguEL ,Logistics_Luanda,Transfer,4161,1426,0.34270608026916605
+21/08/2023,MAXI CASH (distributor),   marta  silva ,Sales_Luanda,PayPal,,,#DIV/0!
+2023-04-28,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Logistics_Luanda,Card,6425,1045,0.16264591439688716
+2023-02-24,KERO (hypermarket),   marta  silva ,Sales_Luanda,Cash,3924,,#DIV/0!
+31/03/2023,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Finance_Luanda,Cash,,1047,#DIV/0!
+29/12/2023,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Huambo,Card,6486,1636,0.2522355843354918
+24/08/2022,"TESLA, INC. (wholesale client)",   marta  silva ,Finance_Luanda,Transfer,6781,,#DIV/0!
+03-21-2023,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Benguela,Cash,3403,,#DIV/0!
+01-21-2023,SHOPRITE ANGOLA (regional store),   marta  silva ,Logistics_Luanda,Cash,,,#DIV/0!
+2023-10-17,MAXI CASH (distributor),  ana   paula ,Logistics_Luanda,PayPal,,1627,#DIV/0!
+2022-10-21,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Luanda,PayPal,,,#DIV/0!
+2022-06-21,KERO (hypermarket), CARLOS   miguEL ,Sales_Benguela,Card,,1806,#DIV/0!
+2022-07-20,ARZAMART (flagship), CARLOS   miguEL ,Sales_Luanda,Cash,,,#DIV/0!
+2023-10-02,AMAZON.CO (ecommerce partner),   marta  silva ,IT_Luanda,Transfer,,1970,#DIV/0!
+17/05/2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Huambo,Card,,,#DIV/0!
+11-15-2023,KERO (hypermarket), CARLOS   miguEL ,Finance_Luanda,Cash,3535,,#DIV/0!
+08/05/2023,KERO (hypermarket), CARLOS   miguEL ,Sales_Luanda,Cash,7522,,#DIV/0!
+12/12/2022,"TESLA, INC. (wholesale client)",   marta  silva ,Sales_Benguela,PayPal,5156,,#DIV/0!
+11/11/2023,WALMART INTL (bulk buyer),   marta  silva ,Logistics_Huambo,Card,7949,,#DIV/0!
+2023-10-22,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,IT_Luanda,Transfer,5780,1511,0.2614186851211073
+09/02/2024,ARZAMART (flagship), CARLOS   miguEL ,Sales_Benguela,PayPal,5726,,#DIV/0!
+2022-04-07,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,IT_Luanda,Transfer,4767,1034,0.21690790853786449
+2023-08-30,ARZAMART (flagship),  ana   paula ,Logistics_Huambo,Card,6852,,#DIV/0!
+01-03-2024,KERO (hypermarket), LUIZ   fernando ,Logistics_Luanda,PayPal,7733,1544,0.19966377861114704
+25/04/2023,KERO (hypermarket),  joSE  manuel  ,Finance_Luanda,Transfer,,,#DIV/0!
+12/08/2022,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Luanda,Cash,,769,#DIV/0!
+01-18-2024,KERO (hypermarket), LUIZ   fernando ,Logistics_Huambo,Card,5311,707,0.13311993974769346
+02-22-2023,"TESLA, INC. (wholesale client)",   marta  silva ,Sales_Benguela,Card,6448,1750,0.2714019851116625
+03-24-2023,MAXI CASH (distributor), pedro    ALVES ,Logistics_Huambo,Card,5139,567,0.11033274956217162
+2022-09-12,MAXI CASH (distributor), pedro    ALVES ,Logistics_Huambo,Cash,7647,,#DIV/0!
+26/11/2022,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Luanda,Transfer,,,#DIV/0!
+01-12-2023,WALMART INTL (bulk buyer), LUIZ   fernando ,Sales_Benguela,Transfer,6723,,#DIV/0!
+29/08/2023,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Luanda,Transfer,6438,,#DIV/0!
+06/09/2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,IT_Luanda,Cash,,,#DIV/0!
+2024-01-18,SHOPRITE ANGOLA (regional store),  ana   paula ,Sales_Benguela,Transfer,7035,705,0.10021321961620469
+03-04-2022,WALMART INTL (bulk buyer), pedro    ALVES ,Finance_Luanda,Cash,,1293,#DIV/0!
+20/04/2022,WALMART INTL (bulk buyer),   marta  silva ,IT_Luanda,Card,5690,527,0.09261862917398946
+11-29-2023,KERO (hypermarket),  joSE  manuel  ,Logistics_Huambo,Transfer,4288,1573,0.3668376865671642
+2022-06-07,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Finance_Luanda,Transfer,7813,966,0.1236400870344298
+14/07/2022,ARZAMART (flagship),   marta  silva ,Logistics_Huambo,Cash,5170,,#DIV/0!
+20/04/2022,WALMART INTL (bulk buyer), CARLOS   miguEL ,Finance_Luanda,Cash,6735,,#DIV/0!
+01-12-2022,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Logistics_Huambo,Card,7850,,#DIV/0!
+20/06/2023,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Card,,,#DIV/0!
+2022-10-12,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Huambo,Cash,4389,,#DIV/0!
+13/01/2022,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Sales_Benguela,Card,,,#DIV/0!
+2023-02-05,MAXI CASH (distributor), pedro    ALVES ,Finance_Luanda,Transfer,4419,1161,0.26272912423625255
+20/04/2022,MAXI CASH (distributor), CARLOS   miguEL ,Logistics_Huambo,Cash,4058,1002,0.24691966485953673
+2023-11-21,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Logistics_Huambo,Cash,7096,,#DIV/0!
+2023-10-13,ARZAMART (flagship), pedro    ALVES ,Logistics_Luanda,PayPal,6776,1637,0.2415879574970484
+02-14-2022,MAXI CASH (distributor),   marta  silva ,IT_Luanda,Cash,3209,1289,0.40168276721720164
+24/03/2022,KERO (hypermarket),  ana   paula ,Logistics_Luanda,Cash,4100,1554,0.37902439024390244
+25/01/2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Luanda,PayPal,,,#DIV/0!
+01/06/2022,KERO (hypermarket), CARLOS   miguEL ,Logistics_Luanda,Card,,,#DIV/0!
+07-01-2022,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,IT_Luanda,Cash,4381,,#DIV/0!
+11/08/2022,KERO (hypermarket), LUIZ   fernando ,IT_Luanda,Card,3459,1289,0.3726510552182712
+2023-11-09,ARZAMART (flagship), pedro    ALVES ,IT_Luanda,Card,7913,,#DIV/0!
+17/12/2022,NOSSO SUPERMERCADO (state-owned),   marta  silva ,IT_Luanda,PayPal,4763,1881,0.394919168591224
+18/10/2022,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Sales_Benguela,Card,7585,1407,0.185497692814766
+03-15-2023,MAXI CASH (distributor), LUIZ   fernando ,Sales_Luanda,PayPal,,705,#DIV/0!
+25/06/2023,WALMART INTL (bulk buyer), pedro    ALVES ,Logistics_Luanda,PayPal,7809,,#DIV/0!
+10-29-2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Huambo,Card,,,#DIV/0!
+12/01/2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Huambo,Card,,504,#DIV/0!
+11/08/2022,MAXI CASH (distributor),  joSE  manuel  ,Finance_Luanda,Transfer,4348,730,0.16789328426862926
+03-25-2023,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Huambo,Card,,,#DIV/0!
+2023-11-17,KERO (hypermarket),  joSE  manuel  ,Sales_Luanda,PayPal,6488,1429,0.22025277435265106
+03-08-2024,KERO (hypermarket), CARLOS   miguEL ,Finance_Luanda,Card,,560,#DIV/0!
+04-08-2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Sales_Benguela,PayPal,7696,678,0.0880977130977131
+03-02-2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Luanda,PayPal,3588,,#DIV/0!
+09-16-2023,WALMART INTL (bulk buyer), CARLOS   miguEL ,Finance_Luanda,Cash,3831,,#DIV/0!
+07-11-2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,IT_Luanda,Transfer,5941,,#DIV/0!
+09/04/2022,AMAZON.CO (ecommerce partner),  ana   paula ,Sales_Luanda,Transfer,7497,,#DIV/0!
+05-10-2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Huambo,Card,,1769,#DIV/0!
+21/09/2023,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Luanda,PayPal,,1930,#DIV/0!
+15/09/2022,MAXI CASH (distributor),   marta  silva ,Logistics_Huambo,PayPal,5304,1264,0.2383107088989442
+2022-08-19,ARZAMART (flagship), CARLOS   miguEL ,Sales_Luanda,PayPal,4737,,#DIV/0!
+19/01/2024,KERO (hypermarket), pedro    ALVES ,Sales_Luanda,Card,5146,873,0.16964632724446171
+10/10/2022,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Logistics_Huambo,PayPal,4222,1269,0.30056845097110374
+03/02/2023,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,IT_Luanda,Card,3371,,#DIV/0!
+2022-12-31,WALMART INTL (bulk buyer), LUIZ   fernando ,IT_Luanda,Transfer,4648,,#DIV/0!
+05-29-2023,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Benguela,Cash,5765,626,0.10858629661751952
+02-08-2024,KERO (hypermarket),   marta  silva ,Sales_Benguela,Card,6982,,#DIV/0!
+07/04/2022,MAXI CASH (distributor), pedro    ALVES ,Logistics_Huambo,Transfer,6690,,#DIV/0!
+18/08/2022,WALMART INTL (bulk buyer),  joSE  manuel  ,Logistics_Luanda,Transfer,3410,,#DIV/0!
+27/11/2022,ARZAMART (flagship),  ana   paula ,IT_Luanda,Cash,,,#DIV/0!
+2023-10-10,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Sales_Luanda,Card,3548,,#DIV/0!
+2022-08-14,WALMART INTL (bulk buyer), pedro    ALVES ,Sales_Benguela,Transfer,,627,#DIV/0!
+02/10/2022,AMAZON.CO (ecommerce partner), pedro    ALVES ,Logistics_Huambo,Cash,6211,1933,0.3112220254387377
+2023-02-13,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,IT_Luanda,Cash,4884,1440,0.29484029484029484
+2023-07-09,SHOPRITE ANGOLA (regional store),   marta  silva ,Sales_Benguela,Cash,6657,1036,0.15562565720294427
+2022-08-31,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Logistics_Huambo,Transfer,,,#DIV/0!
+2023-10-30,WALMART INTL (bulk buyer), CARLOS   miguEL ,Sales_Benguela,Transfer,3727,1604,0.43037295411859405
+08-12-2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Luanda,Cash,3279,1447,0.44129307715767
+04-15-2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Finance_Luanda,Cash,4351,,#DIV/0!
+2022-06-09,KERO (hypermarket),  ana   paula ,Sales_Benguela,Cash,,1307,#DIV/0!
+01-23-2022,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Finance_Luanda,Transfer,4123,,#DIV/0!
+06-13-2023,KERO (hypermarket),   marta  silva ,Finance_Luanda,Cash,3753,,#DIV/0!
+2022-02-01,WALMART INTL (bulk buyer),  joSE  manuel  ,Sales_Luanda,Card,,,#DIV/0!
+07-26-2023,KERO (hypermarket), LUIZ   fernando ,Finance_Luanda,PayPal,,1040,#DIV/0!
+2023-08-03,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Logistics_Huambo,PayPal,,,#DIV/0!
+20/04/2023,KERO (hypermarket), LUIZ   fernando ,Logistics_Luanda,PayPal,,,#DIV/0!
+12/12/2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Luanda,Transfer,7101,782,0.11012533445993522
+09-21-2022,MAXI CASH (distributor),  ana   paula ,Finance_Luanda,PayPal,6491,1946,0.29979972269295946
+11/01/2022,KERO (hypermarket), LUIZ   fernando ,Sales_Benguela,Transfer,6357,543,0.08541764983482775
+2023-03-17,"TESLA, INC. (wholesale client)",  ana   paula ,IT_Luanda,Transfer,3485,1787,0.5127690100430417
+2022-06-14,MAXI CASH (distributor),   marta  silva ,Sales_Luanda,Cash,,1088,#DIV/0!
+2022-10-06,ARZAMART (flagship),  joSE  manuel  ,Sales_Luanda,PayPal,4968,1759,0.35406602254428343
+16/01/2024,SHOPRITE ANGOLA (regional store),   marta  silva ,Logistics_Huambo,Transfer,,,#DIV/0!
+08-04-2022,WALMART INTL (bulk buyer), LUIZ   fernando ,Logistics_Huambo,Transfer,6531,618,0.09462563160312357
+25/02/2023,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Sales_Benguela,Cash,,,#DIV/0!
+2022-02-26,ARZAMART (flagship), CARLOS   miguEL ,IT_Luanda,Card,5077,1794,0.3533582824502659
+2023-01-01,KERO (hypermarket), CARLOS   miguEL ,Finance_Luanda,Cash,7431,1635,0.22002422285022205
+06-13-2023,SHOPRITE ANGOLA (regional store),   marta  silva ,Sales_Benguela,Cash,4253,,#DIV/0!
+09/09/2023,WALMART INTL (bulk buyer),   marta  silva ,IT_Luanda,Transfer,7704,,#DIV/0!
+2023-02-21,KERO (hypermarket), LUIZ   fernando ,IT_Luanda,PayPal,3740,,#DIV/0!
+16/09/2023,AMAZON.CO (ecommerce partner),   marta  silva ,Logistics_Luanda,Transfer,,,#DIV/0!
+2022-02-28,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Sales_Benguela,Cash,3517,,#DIV/0!
+2023-03-06,AMAZON.CO (ecommerce partner), pedro    ALVES ,Logistics_Luanda,PayPal,6149,1175,0.1910879817856562
+12-19-2023,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Sales_Luanda,Transfer,,,#DIV/0!
+2022-02-22,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Sales_Luanda,PayPal,6396,,#DIV/0!
+01-15-2024,ARZAMART (flagship), LUIZ   fernando ,Logistics_Luanda,Cash,,,#DIV/0!
+2022-05-04,ARZAMART (flagship),  joSE  manuel  ,Sales_Luanda,Transfer,5194,,#DIV/0!
+08/04/2023,KERO (hypermarket),  joSE  manuel  ,Sales_Luanda,Card,3045,,#DIV/0!
+2024-01-18,KERO (hypermarket), LUIZ   fernando ,Logistics_Luanda,Card,7489,,#DIV/0!
+16/06/2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Sales_Luanda,Cash,4607,1711,0.37139136097243325
+2022-02-16,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,IT_Luanda,Transfer,6850,679,0.09912408759124088
+07-25-2023,WALMART INTL (bulk buyer), pedro    ALVES ,Finance_Luanda,PayPal,,,#DIV/0!
+09/01/2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Sales_Luanda,Card,,,#DIV/0!
+2022-06-01,ARZAMART (flagship),  ana   paula ,IT_Luanda,Card,7657,,#DIV/0!
+2022-02-05,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Luanda,Cash,,1394,#DIV/0!
+03-15-2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Sales_Benguela,Transfer,4975,1924,0.3867336683417085
+2023-06-22,MAXI CASH (distributor), CARLOS   miguEL ,Finance_Luanda,Card,,1131,#DIV/0!
+12-21-2023,ARZAMART (flagship),  joSE  manuel  ,Logistics_Huambo,PayPal,4853,,#DIV/0!
+15/02/2024,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Huambo,Transfer,,1204,#DIV/0!
+12-22-2023,WALMART INTL (bulk buyer),  joSE  manuel  ,IT_Luanda,Transfer,,,#DIV/0!
+2023-12-17,ARZAMART (flagship), CARLOS   miguEL ,Finance_Luanda,Transfer,4802,,#DIV/0!
+2024-02-01,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Finance_Luanda,Card,7113,1770,0.24884015183466893
+2022-03-07,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Finance_Luanda,Transfer,,,#DIV/0!
+09-13-2023,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Huambo,PayPal,,,#DIV/0!
+2023-05-25,MAXI CASH (distributor),  joSE  manuel  ,IT_Luanda,Card,5264,,#DIV/0!
+14/07/2022,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Finance_Luanda,Transfer,4899,,#DIV/0!
+07-08-2023,MAXI CASH (distributor),   marta  silva ,Logistics_Luanda,Cash,5513,,#DIV/0!
+2023-12-07,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,Transfer,6690,,#DIV/0!
+23/09/2022,KERO (hypermarket), CARLOS   miguEL ,Logistics_Huambo,Transfer,,1289,#DIV/0!
+2022-08-13,AMAZON.CO (ecommerce partner),  ana   paula ,IT_Luanda,Card,,,#DIV/0!
+2023-12-02,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Finance_Luanda,PayPal,7769,,#DIV/0!
+06-16-2023,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Luanda,Transfer,7599,1521,0.20015791551519937
+02-25-2023,KERO (hypermarket), pedro    ALVES ,IT_Luanda,Cash,6438,,#DIV/0!
+25/02/2024,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Luanda,Cash,5739,1976,0.34431085554974733
+2024-01-09,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Luanda,Cash,5128,829,0.16166146645865834
+06/06/2023,ARZAMART (flagship),   marta  silva ,Finance_Luanda,Card,6565,1129,0.17197258187357198
+30/06/2023,KERO (hypermarket), LUIZ   fernando ,Finance_Luanda,PayPal,5181,778,0.15016406099208646
+2024-02-20,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Sales_Luanda,Card,,753,#DIV/0!
+2023-05-19,NOSSO SUPERMERCADO (state-owned), pedro    ALVES ,Logistics_Luanda,PayPal,6266,881,0.14060006383657836
+03-17-2023,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Sales_Benguela,Cash,,,#DIV/0!
+2022-08-23,SHOPRITE ANGOLA (regional store),  ana   paula ,Logistics_Huambo,PayPal,,,#DIV/0!
+2022-12-19,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Luanda,Transfer,,,#DIV/0!
+09/06/2022,AMAZON.CO (ecommerce partner),  ana   paula ,Logistics_Luanda,Cash,6673,738,0.11059493481192867
+19/07/2022,ARZAMART (flagship),  ana   paula ,Finance_Luanda,Card,5205,,#DIV/0!
+2023-02-15,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Sales_Benguela,PayPal,,,#DIV/0!
+23/04/2023,KERO (hypermarket), LUIZ   fernando ,Logistics_Luanda,Transfer,5731,,#DIV/0!
+14/10/2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Luanda,PayPal,7035,1911,0.2716417910447761
+2023-07-07,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Luanda,Cash,,1044,#DIV/0!
+06/03/2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,IT_Luanda,Cash,4909,1335,0.27194948054593604
+2023-09-06,MAXI CASH (distributor),  ana   paula ,Sales_Benguela,Cash,4729,,#DIV/0!
+04-07-2023,MAXI CASH (distributor),   marta  silva ,Sales_Luanda,Cash,,1154,#DIV/0!
+03-27-2022,"TESLA, INC. (wholesale client)",   marta  silva ,Sales_Luanda,Card,5305,,#DIV/0!
+03-18-2023,MAXI CASH (distributor), LUIZ   fernando ,Finance_Luanda,Card,5562,1186,0.21323265012585402
+18/01/2024,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Luanda,Transfer,5746,1443,0.251131221719457
+01/09/2022,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Card,7233,1130,0.15622839762201024
+01-17-2022,MAXI CASH (distributor),  ana   paula ,Sales_Luanda,Card,4958,,#DIV/0!
+2023-05-02,ARZAMART (flagship),  joSE  manuel  ,Sales_Benguela,Card,4096,,#DIV/0!
+2022-02-28,WALMART INTL (bulk buyer),  joSE  manuel  ,Logistics_Huambo,Cash,5968,1755,0.29406836461126007
+17/09/2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Huambo,PayPal,4949,1597,0.3226914528187513
+12-23-2022,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,PayPal,6341,,#DIV/0!
+07-20-2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Huambo,Cash,6155,,#DIV/0!
+12/09/2022,KERO (hypermarket), pedro    ALVES ,IT_Luanda,Transfer,3729,936,0.251005631536605
+09/04/2023,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Logistics_Huambo,Card,7655,1925,0.25146962769431747
+05-25-2023,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Sales_Benguela,PayPal,,,#DIV/0!
+13/08/2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Logistics_Luanda,Cash,,1696,#DIV/0!
+26/09/2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Sales_Benguela,PayPal,4274,1146,0.26813289658399625
+13/11/2023,ARZAMART (flagship),  joSE  manuel  ,Logistics_Luanda,PayPal,4004,613,0.1530969030969031
+2023-07-09,WALMART INTL (bulk buyer), LUIZ   fernando ,Sales_Benguela,Transfer,7801,1339,0.17164466094090503
+10/04/2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Sales_Luanda,Cash,,1312,#DIV/0!
+26/04/2022,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Luanda,Cash,5345,,#DIV/0!
+2022-04-02,ARZAMART (flagship), CARLOS   miguEL ,Sales_Luanda,Card,,,#DIV/0!
+2023-09-18,MAXI CASH (distributor),  ana   paula ,Logistics_Luanda,Transfer,6892,1130,0.16395821242019734
+05-20-2022,WALMART INTL (bulk buyer),   marta  silva ,Logistics_Luanda,Cash,,556,#DIV/0!
+2023-10-08,KERO (hypermarket),   marta  silva ,IT_Luanda,Card,6579,1461,0.2220702234382125
+29/06/2022,WALMART INTL (bulk buyer), LUIZ   fernando ,IT_Luanda,Cash,,,#DIV/0!
+05-31-2022,WALMART INTL (bulk buyer), pedro    ALVES ,IT_Luanda,Transfer,4301,,#DIV/0!
+2023-04-29,WALMART INTL (bulk buyer),   marta  silva ,Logistics_Luanda,Card,,,#DIV/0!
+2023-10-13,"TESLA, INC. (wholesale client)",   marta  silva ,Sales_Luanda,PayPal,3471,,#DIV/0!
+24/12/2023,KERO (hypermarket),  ana   paula ,Logistics_Luanda,Card,,,#DIV/0!
+2023-05-25,ARZAMART (flagship), pedro    ALVES ,Finance_Luanda,Transfer,4383,1998,0.45585215605749485
+2022-04-07,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Finance_Luanda,PayPal,7511,,#DIV/0!
+2022-05-11,ARZAMART (flagship), pedro    ALVES ,Finance_Luanda,Transfer,,533,#DIV/0!
+2023-01-27,"TESLA, INC. (wholesale client)",   marta  silva ,Sales_Benguela,Card,,1916,#DIV/0!
+06/12/2023,AMAZON.CO (ecommerce partner), pedro    ALVES ,Logistics_Luanda,Transfer,,643,#DIV/0!
+2022-05-11,"TESLA, INC. (wholesale client)",   marta  silva ,Logistics_Luanda,PayPal,,1087,#DIV/0!
+2022-07-29,KERO (hypermarket), CARLOS   miguEL ,Finance_Luanda,Cash,,,#DIV/0!
+2023-10-14,KERO (hypermarket),  joSE  manuel  ,Logistics_Luanda,Cash,,1418,#DIV/0!
+01-13-2024,KERO (hypermarket), pedro    ALVES ,Finance_Luanda,Cash,,1723,#DIV/0!
+2023-10-04,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Sales_Benguela,Transfer,,1717,#DIV/0!
+2022-12-04,MAXI CASH (distributor), pedro    ALVES ,Logistics_Luanda,Cash,,,#DIV/0!
+27/09/2022,ARZAMART (flagship),  ana   paula ,Logistics_Huambo,PayPal,4451,1480,0.33250954841608626
+09/06/2022,WALMART INTL (bulk buyer), pedro    ALVES ,Logistics_Huambo,PayPal,5222,1809,0.3464189965530448
+2024-02-22,MAXI CASH (distributor),  ana   paula ,IT_Luanda,Transfer,,,#DIV/0!
+09-14-2023,ARZAMART (flagship),  ana   paula ,Finance_Luanda,Transfer,,,#DIV/0!
+12-11-2023,KERO (hypermarket),  joSE  manuel  ,Logistics_Huambo,Card,5184,,#DIV/0!
+2023-03-15,KERO (hypermarket), pedro    ALVES ,IT_Luanda,Transfer,,,#DIV/0!
+29/10/2023,SHOPRITE ANGOLA (regional store),  ana   paula ,Sales_Luanda,Card,4930,646,0.1310344827586207
+27/08/2022,KERO (hypermarket),  ana   paula ,Sales_Luanda,Transfer,7948,,#DIV/0!
+02-07-2024,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Logistics_Huambo,Card,5984,887,0.14822860962566844
+2024-01-22,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Finance_Luanda,Cash,5434,1815,0.3340080971659919
+28/02/2023,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Sales_Benguela,Transfer,6026,,#DIV/0!
+26/03/2022,MAXI CASH (distributor), pedro    ALVES ,Sales_Benguela,PayPal,,1876,#DIV/0!
+01-06-2022,WALMART INTL (bulk buyer), LUIZ   fernando ,Logistics_Huambo,Transfer,,1764,#DIV/0!
+06-25-2023,MAXI CASH (distributor), pedro    ALVES ,IT_Luanda,PayPal,,,#DIV/0!
+2022-01-23,"TESLA, INC. (wholesale client)",   marta  silva ,Logistics_Luanda,Card,,,#DIV/0!
+03-13-2022,MAXI CASH (distributor), LUIZ   fernando ,Sales_Luanda,PayPal,,961,#DIV/0!
+01-25-2022,"TESLA, INC. (wholesale client)",   marta  silva ,IT_Luanda,PayPal,3906,1917,0.49078341013824883
+23/04/2022,MAXI CASH (distributor), pedro    ALVES ,Sales_Benguela,PayPal,,700,#DIV/0!
+09-17-2022,KERO (hypermarket),  joSE  manuel  ,Sales_Benguela,Transfer,6667,1083,0.1624418779061047
+2023-09-23,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Huambo,PayPal,4723,1459,0.3089138259580775
+02/01/2023,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Logistics_Huambo,Cash,7119,,#DIV/0!
+10/02/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Finance_Luanda,PayPal,,,#DIV/0!
+31/03/2023,WALMART INTL (bulk buyer),   marta  silva ,Finance_Luanda,Cash,6673,1785,0.26749587891503074
+2022-04-09,AMAZON.CO (ecommerce partner),  ana   paula ,Logistics_Huambo,Card,,1450,#DIV/0!
+01-25-2024,AMAZON.CO (ecommerce partner), pedro    ALVES ,IT_Luanda,Card,3635,,#DIV/0!
+22/04/2023,MAXI CASH (distributor), LUIZ   fernando ,Logistics_Huambo,Cash,6278,554,0.08824466390570246
+2022-06-17,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Sales_Benguela,Cash,4952,,#DIV/0!
+16/04/2023,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Benguela,Transfer,5053,1362,0.26954284583415794
+06-21-2023,"TESLA, INC. (wholesale client)",  joSE  manuel  ,IT_Luanda,PayPal,3769,530,0.14062085433802068
+2022-01-21,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,IT_Luanda,Transfer,6400,,#DIV/0!
+20/03/2022,WALMART INTL (bulk buyer),  joSE  manuel  ,Logistics_Luanda,Card,,1710,#DIV/0!
+07-24-2022,KERO (hypermarket), LUIZ   fernando ,Logistics_Luanda,PayPal,5506,610,0.11078823102070469
+05-02-2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Sales_Benguela,Card,,590,#DIV/0!
+05-23-2023,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Luanda,Transfer,4973,,#DIV/0!
+03/01/2024,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Luanda,Transfer,5863,1437,0.24509636704758656
+2023-01-30,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Benguela,Cash,,,#DIV/0!
+2023-12-26,ARZAMART (flagship), pedro    ALVES ,Sales_Benguela,Card,,,#DIV/0!
+11-15-2023,SHOPRITE ANGOLA (regional store),  ana   paula ,Sales_Benguela,Transfer,7871,,#DIV/0!
+2023-09-12,MAXI CASH (distributor),  joSE  manuel  ,Sales_Luanda,PayPal,,,#DIV/0!
+2022-11-13,"TESLA, INC. (wholesale client)",   marta  silva ,Sales_Benguela,Cash,,,#DIV/0!
+2022-08-18,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Sales_Benguela,Card,6081,,#DIV/0!
+10/03/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Logistics_Luanda,PayPal,,1443,#DIV/0!
+05-05-2022,SHOPRITE ANGOLA (regional store),  ana   paula ,Sales_Luanda,PayPal,3468,693,0.19982698961937717
+02-13-2022,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Benguela,Card,,529,#DIV/0!
+2023-02-15,NOSSO SUPERMERCADO (state-owned),   marta  silva ,IT_Luanda,PayPal,4452,1358,0.3050314465408805
+07/06/2022,ARZAMART (flagship),  ana   paula ,Finance_Luanda,Cash,3786,1451,0.3832540940306392
+2022-06-14,KERO (hypermarket),   marta  silva ,Finance_Luanda,Transfer,7720,,#DIV/0!
+13/04/2022,ARZAMART (flagship),  ana   paula ,Sales_Luanda,Card,4596,,#DIV/0!
+10/06/2023,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Logistics_Huambo,Card,3166,871,0.27511054958938724
+14/01/2023,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Benguela,Card,6866,,#DIV/0!
+10-08-2022,WALMART INTL (bulk buyer),  joSE  manuel  ,Finance_Luanda,Cash,,643,#DIV/0!
+16/09/2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Sales_Luanda,Transfer,5933,1698,0.28619585369964606
+2023-06-09,KERO (hypermarket),  ana   paula ,Sales_Luanda,Card,,1836,#DIV/0!
+2023-08-02,MAXI CASH (distributor),   marta  silva ,IT_Luanda,PayPal,5555,1860,0.33483348334833485
+04-27-2022,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,Logistics_Huambo,PayPal,,813,#DIV/0!
+03-04-2024,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Benguela,Cash,3577,,#DIV/0!
+08-28-2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Sales_Luanda,PayPal,,,#DIV/0!
+2024-02-20,ARZAMART (flagship), LUIZ   fernando ,Logistics_Huambo,Transfer,6613,,#DIV/0!
+2022-11-16,KERO (hypermarket), CARLOS   miguEL ,Sales_Luanda,Cash,,1119,#DIV/0!
+15/01/2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Sales_Luanda,PayPal,5602,1684,0.3006069260978222
+10-04-2022,MAXI CASH (distributor), CARLOS   miguEL ,Finance_Luanda,PayPal,,,#DIV/0!
+07-18-2022,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,IT_Luanda,Cash,4383,708,0.16153319644079397
+2022-11-24,"TESLA, INC. (wholesale client)",  ana   paula ,Sales_Luanda,Transfer,6046,1828,0.30234866027125373
+01/07/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Sales_Luanda,Cash,4286,,#DIV/0!
+07-22-2023,WALMART INTL (bulk buyer),  joSE  manuel  ,Sales_Luanda,Cash,3195,1412,0.4419405320813771
+11/01/2022,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Finance_Luanda,PayPal,4903,,#DIV/0!
+07-11-2023,KERO (hypermarket), LUIZ   fernando ,Logistics_Huambo,Cash,,1897,#DIV/0!
+14/02/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Finance_Luanda,Cash,3240,,#DIV/0!
+2023-09-26,ARZAMART (flagship), LUIZ   fernando ,Finance_Luanda,Cash,,,#DIV/0!
+12-07-2023,WALMART INTL (bulk buyer), CARLOS   miguEL ,Sales_Luanda,Cash,6038,,#DIV/0!
+27/08/2022,AMAZON.CO (ecommerce partner), LUIZ   fernando ,IT_Luanda,Transfer,7460,1848,0.2477211796246649
+2022-06-08,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Luanda,Cash,7424,,#DIV/0!
+08/03/2023,ARZAMART (flagship), LUIZ   fernando ,Sales_Luanda,Card,4251,1037,0.24394260174076687
+2022-05-16,ARZAMART (flagship),  joSE  manuel  ,IT_Luanda,Card,6086,,#DIV/0!
+2023-10-19,KERO (hypermarket),  ana   paula ,Logistics_Luanda,PayPal,,1032,#DIV/0!
+01-30-2024,KERO (hypermarket), CARLOS   miguEL ,Finance_Luanda,Card,6372,,#DIV/0!
+04-10-2023,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Finance_Luanda,Card,3453,,#DIV/0!
+2024-03-07,SHOPRITE ANGOLA (regional store),   marta  silva ,Logistics_Huambo,PayPal,4129,,#DIV/0!
+04-19-2023,SHOPRITE ANGOLA (regional store),  joSE  manuel  ,Logistics_Luanda,PayPal,,,#DIV/0!
+2022-12-02,ARZAMART (flagship),  joSE  manuel  ,Finance_Luanda,Card,6753,,#DIV/0!
+10-29-2023,ARZAMART (flagship),   marta  silva ,Sales_Luanda,Cash,4162,,#DIV/0!
+11/01/2022,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,PayPal,4602,745,0.16188613646240765
+12-25-2023,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Sales_Luanda,Transfer,,1012,#DIV/0!
+09-20-2023,ARZAMART (flagship), pedro    ALVES ,Logistics_Huambo,Card,,1533,#DIV/0!
+11-15-2022,AMAZON.CO (ecommerce partner),  ana   paula ,Sales_Luanda,Card,,,#DIV/0!
+08-01-2022,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Sales_Luanda,Card,3092,,#DIV/0!
+2022-08-06,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Luanda,Transfer,5846,,#DIV/0!
+24/06/2022,KERO (hypermarket), CARLOS   miguEL ,Finance_Luanda,Card,,1782,#DIV/0!
+2023-12-10,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Finance_Luanda,Cash,4323,1375,0.31806615776081426
+2023-01-17,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Finance_Luanda,PayPal,4758,1276,0.2681799075241698
+23/10/2022,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Huambo,Card,6312,,#DIV/0!
+2023-08-03,ARZAMART (flagship),   marta  silva ,Finance_Luanda,Transfer,3227,,#DIV/0!
+04-11-2022,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Sales_Luanda,Transfer,4169,1680,0.40297433437275126
+12-15-2023,ARZAMART (flagship),  ana   paula ,Logistics_Luanda,Transfer,,,#DIV/0!
+07-03-2023,MAXI CASH (distributor),  ana   paula ,IT_Luanda,Cash,7626,,#DIV/0!
+11-10-2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Logistics_Huambo,Transfer,7961,,#DIV/0!
+11-15-2023,ARZAMART (flagship),  ana   paula ,Sales_Luanda,PayPal,,,#DIV/0!
+2023-07-16,MAXI CASH (distributor), LUIZ   fernando ,Logistics_Luanda,PayPal,6047,,#DIV/0!
+03-13-2022,ARZAMART (flagship), pedro    ALVES ,Logistics_Huambo,PayPal,,1981,#DIV/0!
+05-27-2022,ARZAMART (flagship), pedro    ALVES ,Finance_Luanda,Card,,,#DIV/0!
+01/01/2022,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Benguela,PayPal,3798,1090,0.2869931542917325
+2022-09-20,WALMART INTL (bulk buyer), LUIZ   fernando ,Logistics_Huambo,Cash,7615,521,0.06841759684832567
+2022-02-17,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Finance_Luanda,Cash,3413,,#DIV/0!
+04-21-2022,MAXI CASH (distributor), pedro    ALVES ,Finance_Luanda,Card,,1915,#DIV/0!
+2023-11-13,MAXI CASH (distributor), LUIZ   fernando ,Logistics_Luanda,PayPal,4118,1561,0.3790675084992715
+02/05/2022,AMAZON.CO (ecommerce partner),   marta  silva ,Finance_Luanda,Cash,6556,,#DIV/0!
+02-25-2022,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Luanda,Cash,3230,,#DIV/0!
+16/02/2022,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Luanda,Cash,6044,1667,0.2758107213765718
+04-16-2022,KERO (hypermarket),  ana   paula ,Sales_Benguela,Transfer,4424,1145,0.25881555153707053
+2022-03-20,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Logistics_Luanda,Card,5747,1775,0.3088567948494867
+2023-06-11,ARZAMART (flagship),  ana   paula ,Sales_Benguela,PayPal,7061,,#DIV/0!
+23/09/2023,WALMART INTL (bulk buyer), LUIZ   fernando ,Finance_Luanda,Transfer,5163,1777,0.3441797404609723
+20/01/2024,SHOPRITE ANGOLA (regional store),   marta  silva ,Sales_Luanda,Card,,503,#DIV/0!
+18/04/2023,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Finance_Luanda,Cash,4766,,#DIV/0!
+07-06-2022,WALMART INTL (bulk buyer), pedro    ALVES ,Finance_Luanda,Card,6449,777,0.12048379593735463
+2023-04-16,SHOPRITE ANGOLA (regional store), pedro    ALVES ,IT_Luanda,Transfer,,626,#DIV/0!
+10-30-2023,WALMART INTL (bulk buyer),  joSE  manuel  ,Finance_Luanda,Cash,7937,,#DIV/0!
+2024-01-12,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Finance_Luanda,PayPal,,,#DIV/0!
+01-13-2022,ARZAMART (flagship),   marta  silva ,IT_Luanda,Cash,,,#DIV/0!
+07-06-2022,ARZAMART (flagship), LUIZ   fernando ,Sales_Benguela,Transfer,,1581,#DIV/0!
+07-26-2023,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Sales_Luanda,Transfer,,,#DIV/0!
+08/10/2022,MAXI CASH (distributor), LUIZ   fernando ,Sales_Benguela,PayPal,,,#DIV/0!
+11-13-2023,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,IT_Luanda,PayPal,6603,,#DIV/0!
+22/11/2023,KERO (hypermarket), CARLOS   miguEL ,Finance_Luanda,Cash,4402,1987,0.451385733757383
+13/04/2022,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,Logistics_Huambo,Cash,,,#DIV/0!
+06/10/2022,MAXI CASH (distributor),   marta  silva ,IT_Luanda,PayPal,6663,1164,0.17469608284556506
+01/05/2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Sales_Luanda,Transfer,6090,,#DIV/0!
+05/01/2023,MAXI CASH (distributor),  joSE  manuel  ,Sales_Luanda,Cash,,,#DIV/0!
+06-20-2022,KERO (hypermarket), pedro    ALVES ,IT_Luanda,Card,7480,,#DIV/0!
+01-14-2023,AMAZON.CO (ecommerce partner), pedro    ALVES ,IT_Luanda,Cash,,1546,#DIV/0!
+07/01/2023,SHOPRITE ANGOLA (regional store),  ana   paula ,IT_Luanda,Transfer,5812,1673,0.28785271851342054
+01/05/2023,ARZAMART (flagship), LUIZ   fernando ,Logistics_Luanda,Cash,,879,#DIV/0!
+2022-06-03,"TESLA, INC. (wholesale client)",  ana   paula ,Finance_Luanda,Card,5231,1703,0.32555916650735994
+01-20-2022,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Sales_Benguela,PayPal,4305,,#DIV/0!
+2023-07-10,AMAZON.CO (ecommerce partner),  ana   paula ,Sales_Benguela,Transfer,,,#DIV/0!
+06-13-2023,MAXI CASH (distributor), pedro    ALVES ,Sales_Benguela,PayPal,5858,1549,0.26442471833390235
+24/09/2023,WALMART INTL (bulk buyer),   marta  silva ,Sales_Benguela,Transfer,5440,1538,0.2827205882352941
+04/04/2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Huambo,Transfer,,,#DIV/0!
+2022-08-29,"TESLA, INC. (wholesale client)",  ana   paula ,Logistics_Huambo,Cash,7716,,#DIV/0!
+22/03/2023,ARZAMART (flagship),   marta  silva ,Sales_Benguela,Card,,,#DIV/0!
+07-14-2022,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Sales_Benguela,PayPal,,,#DIV/0!
+02-04-2022,"TESLA, INC. (wholesale client)", LUIZ   fernando ,Logistics_Huambo,PayPal,3026,1630,0.5386649041639128
+2023-04-08,NOSSO SUPERMERCADO (state-owned),   marta  silva ,Sales_Benguela,Card,5558,1531,0.2754587981288233
+01-13-2024,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Luanda,Card,,1696,#DIV/0!
+24/02/2023,WALMART INTL (bulk buyer), LUIZ   fernando ,Logistics_Luanda,Transfer,,,#DIV/0!
+2023-04-04,ARZAMART (flagship), LUIZ   fernando ,Sales_Luanda,PayPal,,,#DIV/0!
+17/08/2023,MAXI CASH (distributor),   marta  silva ,Sales_Benguela,PayPal,6305,740,0.11736716891356067
+29/04/2022,AMAZON.CO (ecommerce partner),  joSE  manuel  ,Finance_Luanda,Card,7558,1511,0.19992061391902619
+2023-03-06,MAXI CASH (distributor),   marta  silva ,Finance_Luanda,Card,,,#DIV/0!
+2022-05-25,SHOPRITE ANGOLA (regional store),   marta  silva ,IT_Luanda,Card,5659,,#DIV/0!
+2023-09-15,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Sales_Benguela,Card,,1227,#DIV/0!
+2023-01-21,WALMART INTL (bulk buyer), LUIZ   fernando ,Sales_Benguela,Card,7231,,#DIV/0!
+09/03/2023,NOSSO SUPERMERCADO (state-owned), CARLOS   miguEL ,IT_Luanda,Cash,7048,,#DIV/0!
+11/08/2023,MAXI CASH (distributor), pedro    ALVES ,Logistics_Luanda,Card,7573,,#DIV/0!
+05-02-2022,ARZAMART (flagship),  joSE  manuel  ,IT_Luanda,Cash,7650,,#DIV/0!
+23/10/2023,KERO (hypermarket), CARLOS   miguEL ,Finance_Luanda,Card,6264,582,0.09291187739463602
+2022-10-19,ARZAMART (flagship), CARLOS   miguEL ,Logistics_Luanda,Cash,4374,1685,0.38523090992226794
+12-13-2023,WALMART INTL (bulk buyer),  ana   paula ,Sales_Luanda,Card,6529,982,0.15040588145198347
+27/05/2023,KERO (hypermarket), pedro    ALVES ,Finance_Luanda,Card,,691,#DIV/0!
+2023-12-17,WALMART INTL (bulk buyer), LUIZ   fernando ,Finance_Luanda,Cash,6229,,#DIV/0!
+2022-01-15,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Luanda,PayPal,4513,1101,0.24396188787945933
+07-11-2023,WALMART INTL (bulk buyer),  joSE  manuel  ,Logistics_Huambo,Transfer,6265,1009,0.1610534716679968
+01/10/2023,ARZAMART (flagship), pedro    ALVES ,Logistics_Huambo,Cash,,1732,#DIV/0!
+05-20-2022,WALMART INTL (bulk buyer),   marta  silva ,Sales_Luanda,Card,6228,1173,0.18834296724470134
+2023-09-19,AMAZON.CO (ecommerce partner), CARLOS   miguEL ,Sales_Luanda,PayPal,5896,679,0.1151628222523745
+19/06/2022,WALMART INTL (bulk buyer),  ana   paula ,Logistics_Luanda,Card,4658,,#DIV/0!
+08-03-2022,ARZAMART (flagship),  joSE  manuel  ,Sales_Luanda,PayPal,5927,616,0.10393116247680108
+24/08/2023,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Huambo,Card,,1431,#DIV/0!
+10/03/2023,MAXI CASH (distributor), CARLOS   miguEL ,Sales_Luanda,Transfer,4145,,#DIV/0!
+01-08-2023,KERO (hypermarket), LUIZ   fernando ,IT_Luanda,Transfer,7170,1902,0.26527196652719665
+2022-08-07,MAXI CASH (distributor),  joSE  manuel  ,Logistics_Luanda,Card,,,#DIV/0!
+10-30-2023,KERO (hypermarket),  ana   paula ,Sales_Luanda,Transfer,5579,1646,0.2950349525004481
+12-24-2022,MAXI CASH (distributor),  joSE  manuel  ,Sales_Luanda,Cash,6751,,#DIV/0!
+2024-01-30,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Logistics_Huambo,Cash,,,#DIV/0!
+10-17-2023,"TESLA, INC. (wholesale client)", LUIZ   fernando ,IT_Luanda,Card,,1813,#DIV/0!
+2023-07-16,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Sales_Luanda,Card,7568,,#DIV/0!
+2023-01-24,KERO (hypermarket),   marta  silva ,Sales_Luanda,Cash,,,#DIV/0!
+23/04/2023,NOSSO SUPERMERCADO (state-owned),  ana   paula ,Sales_Luanda,Transfer,,,#DIV/0!
+31/12/2023,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Logistics_Luanda,Transfer,4471,1621,0.3625587116976068
+2024-01-12,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Finance_Luanda,Cash,7474,1576,0.21086432967621085
+2023-12-04,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,IT_Luanda,Cash,6854,,#DIV/0!
+2023-08-27,NOSSO SUPERMERCADO (state-owned),  joSE  manuel  ,Sales_Luanda,Cash,4975,1713,0.344321608040201
+10-02-2022,SHOPRITE ANGOLA (regional store), LUIZ   fernando ,Finance_Luanda,Transfer,,1351,#DIV/0!
+20/12/2022,"TESLA, INC. (wholesale client)",  joSE  manuel  ,Sales_Luanda,Cash,3137,,#DIV/0!
+11-11-2023,MAXI CASH (distributor),   marta  silva ,Logistics_Huambo,Card,6100,1726,0.28295081967213115
+11/11/2023,"TESLA, INC. (wholesale client)", pedro    ALVES ,Sales_Benguela,Transfer,,,#DIV/0!
+2022-01-22,KERO (hypermarket), LUIZ   fernando ,Logistics_Luanda,Cash,,1146,#DIV/0!
+04/02/2022,ARZAMART (flagship),  joSE  manuel  ,IT_Luanda,PayPal,7912,,#DIV/0!
+15/02/2024,ARZAMART (flagship), CARLOS   miguEL ,Sales_Luanda,Transfer,,1353,#DIV/0!
+01-23-2022,"TESLA, INC. (wholesale client)", pedro    ALVES ,Finance_Luanda,Cash,4926,1612,0.3272431993503857
+11/11/2023,NOSSO SUPERMERCADO (state-owned), LUIZ   fernando ,Logistics_Huambo,Card,,1186,#DIV/0!
+2022-01-30,AMAZON.CO (ecommerce partner),  ana   paula ,Sales_Luanda,PayPal,4045,,#DIV/0!
+01/04/2022,AMAZON.CO (ecommerce partner), pedro    ALVES ,Sales_Luanda,PayPal,5072,,#DIV/0!
+2023-12-12,ARZAMART (flagship),   marta  silva ,IT_Luanda,Card,,,#DIV/0!
+2023-04-04,SHOPRITE ANGOLA (regional store), pedro    ALVES ,Logistics_Huambo,Card,,1153,#DIV/0!
+06/12/2023,SHOPRITE ANGOLA (regional store), CARLOS   miguEL ,IT_Luanda,PayPal,3130,1291,0.4124600638977636
+2022-07-31,"TESLA, INC. (wholesale client)", CARLOS   miguEL ,Finance_Luanda,Card,7623,,#DIV/0!
+27/03/2022,ARZAMART (flagship), LUIZ   fernando ,IT_Luanda,PayPal,4796,,#DIV/0!
+2023-11-30,ARZAMART (flagship), LUIZ   fernando ,Logistics_Luanda,Transfer,,589,#DIV/0!
+2023-12-16,KERO (hypermarket),   marta  silva ,Sales_Benguela,Card,,,#DIV/0!
+06/07/2023,ARZAMART (flagship),   marta  silva ,Logistics_Luanda,Transfer,4056,788,0.1942800788954635
+29/03/2023,AMAZON.CO (ecommerce partner), LUIZ   fernando ,Finance_Luanda,Transfer,3893,1834,0.47110197790906755
+2023-04-03,MAXI CASH (distributor), CARLOS   miguEL ,IT_Luanda,PayPal,6117,,#DIV/0!
+21/08/2022,K
