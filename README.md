@@ -61,6 +61,9 @@ The raw dataset contained multiple data quality issues, including:
 - Blank rows and outliers  
 
 📸 **Raw Data Snapshot**  
+<p align="center">
+  <img src="Images/data_screenshots/Raw_data.png" width="400" />
+</p>
 
 ---
 
@@ -74,8 +77,9 @@ During this stage:
 - Business context was applied before making decisions  
 
 📸 **Outlier Detection & Intermediate Work**  
-![Data Being Worked](screenshots/data_being_worked_outliers.png)
-
+<p align="center">
+  <img src="Images/data_screenshots/Data_being_worked_with_outlier.png" width="600" />
+</p>
 ---
 
 ### 3️⃣ Cleaned Data (Structured & Standardized)
@@ -90,7 +94,7 @@ Key transformations included:
 
 📸 **Cleaned Dataset Overview**  
 <p align="center">
-  <img src="Images/cover1.png" width="500" />
+  <img src="Images/data_screenshots/Cleaned_data(1).png" width="600" />
 </p>
 
 ---
@@ -103,8 +107,9 @@ Instead of deleting or guessing missing values:
 - Dedicated `Data_Quality_Notes` columns explain assumptions and limitations  
 
 📸 **Documented Data Quality Notes**  
-![Data Quality Notes](screenshots/cleaned_data_with_notes.png)
-
+<p align="center">
+  <img src="Images/data_screenshots/Cleaned_data(2).png" width="600" />
+</p>
 ---
 
 ## 💡 Key Business Decisions
