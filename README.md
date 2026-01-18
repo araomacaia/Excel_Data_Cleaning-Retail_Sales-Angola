@@ -184,7 +184,7 @@ Data Analytics Intern | Electronics & Communication Engineering
 
 > 🌍 **Background**  
 > Undergraduate student in Electronics and Communication Engineering with strong interest in **Data Analytics, Business Intelligence, and Data-Driven Decision Making**.  
-> This project was completed as part of a **Data Analytics Internship**, with a focus on professional data cleaning, business reasoning, and ethical data handling.
+> This project was completed as part of a **Data Analytics Internship** at **Elevate Labs, India**, with a focus on professional data cleaning, business reasoning, and ethical data handling.
 
 🔗 **Connect with me:**  
 - LinkedIn: *https://www.linkedin.com/in/araomacaia/*  
